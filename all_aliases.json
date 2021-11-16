@@ -1,0 +1,6858 @@
+[
+    {
+        "doc_id": 0,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Gallant": "Brian Gallant",
+            "McKenna": "Catherine McKenna"
+        }
+    },
+    {
+        "doc_id": 1,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Gallant": "Brian Gallant",
+            "McKenna": "Catherine McKenna"
+        }
+    },
+    {
+        "doc_id": 2,
+        "items": {}
+    },
+    {
+        "doc_id": 3,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Gallant": "Brian Gallant",
+            "McKenna": "Catherine McKenna"
+        }
+    },
+    {
+        "doc_id": 4,
+        "items": {
+            "Bowman": "Brian Bowman",
+            "Sabourin": "Maurice Sabourin"
+        }
+    },
+    {
+        "doc_id": 5,
+        "items": {
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 6,
+        "items": {
+            "Bradley": "Bradley Schenck",
+            "Schenck": "Bradley Schenck",
+            "Phillips": "Jon Phillips"
+        }
+    },
+    {
+        "doc_id": 7,
+        "items": {
+            "Wynne": "Kathleen Wynne",
+            "McGuinty": "Dalton McGuinty"
+        }
+    },
+    {
+        "doc_id": 8,
+        "items": {
+            "Bradley": "Bradley Schenck",
+            "Schenck": "Bradley Schenck",
+            "Phillips": "Jon Phillips"
+        }
+    },
+    {
+        "doc_id": 9,
+        "items": {}
+    },
+    {
+        "doc_id": 10,
+        "items": {
+            "Barrett": "Kim Barrett"
+        }
+    },
+    {
+        "doc_id": 11,
+        "items": {
+            "Wynne": "Kathleen Wynne",
+            "McGuinty": "Dalton McGuinty",
+            "Thomas Walkom": "Thomas WalkomTorstar"
+        }
+    },
+    {
+        "doc_id": 12,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Obama": "Barack Obama",
+            "Kingsley": "Jean - Pierre Kingsley",
+            "Hamel": "Jean - Marc Hamel",
+            "Gord": "Gord Rawlinson",
+            "Keith": "Mary Keith"
+        }
+    },
+    {
+        "doc_id": 13,
+        "items": {
+            "Kingsley": "Jean - Pierre Kingsley",
+            "Hamel": "Jean - Marc Hamel",
+            "Gord": "Gord Rawlinson",
+            "Keith": "Mary Keith"
+        }
+    },
+    {
+        "doc_id": 14,
+        "items": {
+            "Perry": "Scott Perry"
+        }
+    },
+    {
+        "doc_id": 15,
+        "items": {
+            "Kingsley": "Jean - Pierre Kingsley",
+            "Hamel": "Jean - Marc Hamel",
+            "Gord": "Gord Rawlinson",
+            "Keith": "Mary Keith"
+        }
+    },
+    {
+        "doc_id": 16,
+        "items": {
+            "Kingsley": "Jean - Pierre Kingsley",
+            "Hamel": "Jean - Marc Hamel",
+            "Gord": "Gord Rawlinson",
+            "Keith": "Mary Keith"
+        }
+    },
+    {
+        "doc_id": 17,
+        "items": {
+            "Perry": "Scott Perry"
+        }
+    },
+    {
+        "doc_id": 18,
+        "items": {
+            "Perry": "Scott Perry"
+        }
+    },
+    {
+        "doc_id": 19,
+        "items": {
+            "Horgan": "John Horgan"
+        }
+    },
+    {
+        "doc_id": 20,
+        "items": {
+            "Kingsley": "Jean - Pierre Kingsley",
+            "Hamel": "Jean - Marc Hamel",
+            "Gord": "Gord Rawlinson",
+            "Keith": "Mary Keith"
+        }
+    },
+    {
+        "doc_id": 21,
+        "items": {
+            "Mahon": "Karen Mahon",
+            "Quipp": "Susan Quipp",
+            "Black": "Iain Black",
+            "Ross": "Ellis Ross",
+            "Abelson": "Donald Abelson",
+            "MacKenzie": "Mike MacKenzie"
+        }
+    },
+    {
+        "doc_id": 22,
+        "items": {
+            "Kingsley": "Jean - Pierre Kingsley",
+            "Hamel": "Jean - Marc Hamel",
+            "Gord": "Gord Rawlinson",
+            "Keith": "Mary Keith"
+        }
+    },
+    {
+        "doc_id": 23,
+        "items": {
+            "Flanagan": "Denis Flanagan"
+        }
+    },
+    {
+        "doc_id": 24,
+        "items": {
+            "Weaver": "Andrew Weaver",
+            "Pierce": "Susannah Pierce"
+        }
+    },
+    {
+        "doc_id": 25,
+        "items": {
+            "Kingsley": "Jean - Pierre Kingsley",
+            "Hamel": "Jean - Marc Hamel",
+            "Gord": "Gord Rawlinson",
+            "Keith": "Mary Keith"
+        }
+    },
+    {
+        "doc_id": 26,
+        "items": {
+            "May": "Elizabeth May",
+            "Stewart": "Kennedy Stewart"
+        }
+    },
+    {
+        "doc_id": 27,
+        "items": {
+            "Melançon": "Isabelle Melançon"
+        }
+    },
+    {
+        "doc_id": 28,
+        "items": {
+            "Pinker": "Steven Pinker",
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 29,
+        "items": {
+            "Perry": "Scott Perry"
+        }
+    },
+    {
+        "doc_id": 30,
+        "items": {
+            "Kingsley": "Jean - Pierre Kingsley",
+            "Hamel": "Jean - Marc Hamel",
+            "Gord": "Gord Rawlinson",
+            "Keith": "Mary Keith"
+        }
+    },
+    {
+        "doc_id": 31,
+        "items": {
+            "Horgan": "John Horgan",
+            "John": "John Horgan",
+            "Weaver": "Andrew Weaver"
+        }
+    },
+    {
+        "doc_id": 32,
+        "items": {
+            "NOTLEY": "RACHEL NOTLEY",
+            "Horgan": "John Horgan"
+        }
+    },
+    {
+        "doc_id": 33,
+        "items": {
+            "Hill": "Greg Hill",
+            "Greg": "Greg Hill",
+            "Rubens": "Chris Rubens",
+            "Douglas": "Mike Douglas"
+        }
+    },
+    {
+        "doc_id": 34,
+        "items": {
+            "Hill": "Greg Hill",
+            "Greg": "Greg Hill",
+            "Rubens": "Chris Rubens",
+            "Douglas": "Mike Douglas"
+        }
+    },
+    {
+        "doc_id": 35,
+        "items": {}
+    },
+    {
+        "doc_id": 36,
+        "items": {
+            "Halpin": "Luke Halpin"
+        }
+    },
+    {
+        "doc_id": 37,
+        "items": {}
+    },
+    {
+        "doc_id": 38,
+        "items": {}
+    },
+    {
+        "doc_id": 39,
+        "items": {
+            "Rieder": "Susie Rieder"
+        }
+    },
+    {
+        "doc_id": 40,
+        "items": {}
+    },
+    {
+        "doc_id": 41,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 42,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Dallaire": "Romeo Dallaire"
+        }
+    },
+    {
+        "doc_id": 43,
+        "items": {
+            "Augustine": "Roger Augustine"
+        }
+    },
+    {
+        "doc_id": 44,
+        "items": {}
+    },
+    {
+        "doc_id": 45,
+        "items": {}
+    },
+    {
+        "doc_id": 46,
+        "items": {
+            "Ullhorn": "Rob Ullhorn",
+            "Davidson": "Tova Davidson",
+            "Keyworth": "Geoffrey Keyworth"
+        }
+    },
+    {
+        "doc_id": 47,
+        "items": {
+            "Neha": "Neha Gupta",
+            "Joseph": "Joseph Saturnino",
+            "Anthony": "Anthony Saturnino",
+            "Kishore": "Kishore Jaiswal",
+            "Rishi": "Rishi Popuri"
+        }
+    },
+    {
+        "doc_id": 48,
+        "items": {
+            "Browning": "Robert Browning",
+            "Trudeau": "Justin Trudeau",
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 49,
+        "items": {
+            "Bolton": "John Bolton",
+            "Pompeo": "Mike Pompeo",
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 50,
+        "items": {}
+    },
+    {
+        "doc_id": 51,
+        "items": {
+            "Bolton": "John Bolton",
+            "Pompeo": "Mike Pompeo",
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 52,
+        "items": {
+            "Ford": "Rob Ford",
+            "Doug": "Doug Ford",
+            "Harris": "Mike Harris",
+            "Rae": "Bob Rae",
+            "Phil": "Philippe Couillard",
+            "Couillard": "Philippe Couillard",
+            "Legault": "Francois Legault",
+            "Davis": "Bill Davis",
+            "Lévesque": "René Lévesque"
+        }
+    },
+    {
+        "doc_id": 53,
+        "items": {
+            "Stralberg": "Diana Stralberg",
+            "Parisien": "Marc - Andre Parisien"
+        }
+    },
+    {
+        "doc_id": 54,
+        "items": {
+            "Stralberg": "Diana Stralberg",
+            "Parisien": "Marc - Andre Parisien"
+        }
+    },
+    {
+        "doc_id": 55,
+        "items": {
+            "Dwyer": "Karen Dwyer"
+        }
+    },
+    {
+        "doc_id": 56,
+        "items": {
+            "Wynne": "Kathleen Wynne",
+            "McGuinty": "Dalton McGuinty"
+        }
+    },
+    {
+        "doc_id": 57,
+        "items": {
+            "Gourlay": "Jason Gourlay"
+        }
+    },
+    {
+        "doc_id": 58,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 59,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Daniels": "Stormy Daniels",
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 60,
+        "items": {
+            "Osborne": "Tom Osborne"
+        }
+    },
+    {
+        "doc_id": 61,
+        "items": {}
+    },
+    {
+        "doc_id": 62,
+        "items": {
+            "Brendle": "Frank Brendle"
+        }
+    },
+    {
+        "doc_id": 63,
+        "items": {
+            "MacAulay": "Lawrence MacAulay",
+            "Brother": "Brother Andre",
+            "Andre": "Brother Andre",
+            "Brother Andre": "Saint Brother Andre",
+            "Boyle": "Joshua Boyle",
+            "Trudeau": "Justin Trudeau",
+            "Martin": "Russell Martin",
+            "Normandeau": "Nathalie Normandeau",
+            "Ouellet": "Martine Ouellet",
+            "Trump": "Donald Trump",
+            "Puigdemont": "Carles Puigdemont",
+            "Fazekas": "Frank Fazekas"
+        }
+    },
+    {
+        "doc_id": 64,
+        "items": {
+            "Dionne": "Greg Dionne"
+        }
+    },
+    {
+        "doc_id": 65,
+        "items": {
+            "Duvall": "Mel Duvall"
+        }
+    },
+    {
+        "doc_id": 66,
+        "items": {}
+    },
+    {
+        "doc_id": 67,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Couillard": "Philippe Couillard",
+            "Wynne": "Kathleen Wynne",
+            "Legault": "François Legault",
+            "Ford": "Doug Ford"
+        }
+    },
+    {
+        "doc_id": 68,
+        "items": {}
+    },
+    {
+        "doc_id": 69,
+        "items": {}
+    },
+    {
+        "doc_id": 70,
+        "items": {
+            "Notley": "Rachel Notley",
+            "Corrigan": "Derek Corrigan"
+        }
+    },
+    {
+        "doc_id": 71,
+        "items": {
+            "Dionne": "Greg Dionne"
+        }
+    },
+    {
+        "doc_id": 72,
+        "items": {}
+    },
+    {
+        "doc_id": 73,
+        "items": {
+            "Sproule": "Cathy Sproule",
+            "Duncan": "Dustin Duncan"
+        }
+    },
+    {
+        "doc_id": 74,
+        "items": {
+            "Papoulias": "Maria Papoulias"
+        }
+    },
+    {
+        "doc_id": 75,
+        "items": {
+            "Sproule": "Cathy Sproule",
+            "Duncan": "Dustin Duncan"
+        }
+    },
+    {
+        "doc_id": 76,
+        "items": {
+            "May": "Elizabeth May"
+        }
+    },
+    {
+        "doc_id": 77,
+        "items": {
+            "Notley": "Rachel Notley",
+            "Corrigan": "Derek Corrigan"
+        }
+    },
+    {
+        "doc_id": 78,
+        "items": {}
+    },
+    {
+        "doc_id": 79,
+        "items": {
+            "Paula Foot": "Paula Foot Duncan"
+        }
+    },
+    {
+        "doc_id": 80,
+        "items": {}
+    },
+    {
+        "doc_id": 81,
+        "items": {
+            "Wilkinson": "Andrew Wilkinson",
+            "Letnick": "Norm Letnick",
+            "Clark": "Christy Clark",
+            "Stewart": "Ben Stewart",
+            "Larson": "Linda Larson"
+        }
+    },
+    {
+        "doc_id": 82,
+        "items": {}
+    },
+    {
+        "doc_id": 83,
+        "items": {}
+    },
+    {
+        "doc_id": 84,
+        "items": {}
+    },
+    {
+        "doc_id": 85,
+        "items": {}
+    },
+    {
+        "doc_id": 86,
+        "items": {
+            "Trump": "Donald Trump",
+            "Daniels": "Stormy Daniels",
+            "Cohen": "Michael Cohen"
+        }
+    },
+    {
+        "doc_id": 87,
+        "items": {
+            "Pope": "Pope Francis",
+            "Tina": "Tina Fontaine",
+            "Fontaine": "Tina Fontaine",
+            "Trump": "Donald Trump",
+            "Pujols": "Albert Pujols"
+        }
+    },
+    {
+        "doc_id": 88,
+        "items": {
+            "Gelfand": "Julie Gelfand",
+            "McKenna": "Catherine McKenna",
+            "Fast": "Ed Fast"
+        }
+    },
+    {
+        "doc_id": 89,
+        "items": {
+            "Duncan": "Dustin Duncan"
+        }
+    },
+    {
+        "doc_id": 90,
+        "items": {}
+    },
+    {
+        "doc_id": 91,
+        "items": {
+            "Duncan": "Dustin Duncan"
+        }
+    },
+    {
+        "doc_id": 92,
+        "items": {}
+    },
+    {
+        "doc_id": 93,
+        "items": {
+            "Osborne": "Tom Osborne",
+            "Alexander": "Richard Alexander"
+        }
+    },
+    {
+        "doc_id": 94,
+        "items": {
+            "Duncan": "Dustin Duncan"
+        }
+    },
+    {
+        "doc_id": 95,
+        "items": {
+            "Julie": "Julie Gelfand"
+        }
+    },
+    {
+        "doc_id": 96,
+        "items": {}
+    },
+    {
+        "doc_id": 97,
+        "items": {}
+    },
+    {
+        "doc_id": 98,
+        "items": {
+            "McKenna": "Catherine McKenna",
+            "Boag": "Peter Boag"
+        }
+    },
+    {
+        "doc_id": 99,
+        "items": {
+            "Leitao": "Carlos Leitao",
+            "Legault": "François Legault",
+            "Marceau": "Nicolas Marceau",
+            "Proulx": "Véronique Proulx"
+        }
+    },
+    {
+        "doc_id": 100,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Couillard": "Philippe Couillard",
+            "Wynne": "Kathleen Wynne",
+            "Legault": "Francois Legault",
+            "Ford": "Doug Ford"
+        }
+    },
+    {
+        "doc_id": 101,
+        "items": {
+            "Skjold": "Michael Skjold",
+            "Butler": "Will Butler"
+        }
+    },
+    {
+        "doc_id": 102,
+        "items": {
+            "Gelfand": "Julie Gelfand",
+            "McKenna": "Catherine McKenna",
+            "Abreu": "Catherine Abreu"
+        }
+    },
+    {
+        "doc_id": 103,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Couillard": "Philippe Couillard",
+            "Wynne": "Kathleen Wynne",
+            "Legault": "Francois Legault",
+            "Ford": "Doug Ford"
+        }
+    },
+    {
+        "doc_id": 104,
+        "items": {
+            "McKenna": "Catherine McKenna",
+            "Boulerice": "Alexandre Boulerice"
+        }
+    },
+    {
+        "doc_id": 105,
+        "items": {
+            "Schreiner": "Mike Schreiner"
+        }
+    },
+    {
+        "doc_id": 106,
+        "items": {
+            "Notley": "Rachel Notley",
+            "Corrigan": "Derek Corrigan"
+        }
+    },
+    {
+        "doc_id": 107,
+        "items": {
+            "Ford": "Doug Ford"
+        }
+    },
+    {
+        "doc_id": 108,
+        "items": {
+            "Gelfand": "Julie Gelfand",
+            "McKenna": "Catherine McKenna",
+            "Fast": "Ed Fast"
+        }
+    },
+    {
+        "doc_id": 109,
+        "items": {
+            "Déry": "Stephen Déry"
+        }
+    },
+    {
+        "doc_id": 110,
+        "items": {}
+    },
+    {
+        "doc_id": 111,
+        "items": {
+            "Ferguson": "Judy Ferguson"
+        }
+    },
+    {
+        "doc_id": 112,
+        "items": {
+            "Ferguson": "Judy Ferguson",
+            "Duncan": "Dustin Duncan"
+        }
+    },
+    {
+        "doc_id": 113,
+        "items": {
+            "Pinker": "Steven Pinker",
+            "Raworth": "Kate Raworth"
+        }
+    },
+    {
+        "doc_id": 114,
+        "items": {}
+    },
+    {
+        "doc_id": 115,
+        "items": {
+            "MacIntyre": "Grace MacIntyre",
+            "Grace": "Grace MacIntyre",
+            "Les": "Les MacIntyre"
+        }
+    },
+    {
+        "doc_id": 116,
+        "items": {
+            "Gelfand": "Julie Gelfand",
+            "McKenna": "Catherine McKenna",
+            "Fast": "Ed Fast"
+        }
+    },
+    {
+        "doc_id": 117,
+        "items": {
+            "Gelfand": "Julie Gelfand",
+            "McKenna": "Catherine McKenna",
+            "Fast": "Ed Fast"
+        }
+    },
+    {
+        "doc_id": 118,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Couillard": "Philippe Couillard",
+            "Wynne": "Kathleen Wynne",
+            "Legault": "François Legault",
+            "Ford": "Doug Ford"
+        }
+    },
+    {
+        "doc_id": 119,
+        "items": {
+            "Thoman": "Rick Thoman",
+            "Epchook": "Boris Epchook",
+            "Oomittuk": "Steve Oomittuk"
+        }
+    },
+    {
+        "doc_id": 120,
+        "items": {}
+    },
+    {
+        "doc_id": 121,
+        "items": {}
+    },
+    {
+        "doc_id": 122,
+        "items": {
+            "Wilkinson": "Jonathan Wilkinson",
+            "McGrenera": "Kathy McGrenera",
+            "Frampton": "Jade Frampton",
+            "Connor": "Denis Connor"
+        }
+    },
+    {
+        "doc_id": 123,
+        "items": {
+            "Moe": "Scott Moe"
+        }
+    },
+    {
+        "doc_id": 124,
+        "items": {
+            "David Coon": "David Coonis"
+        }
+    },
+    {
+        "doc_id": 125,
+        "items": {
+            "David Coon": "David Coonis"
+        }
+    },
+    {
+        "doc_id": 126,
+        "items": {}
+    },
+    {
+        "doc_id": 127,
+        "items": {
+            "LeBlanc": "Dominic LeBlanc",
+            "Allen": "Carl Allen",
+            "Haché": "Robert Haché"
+        }
+    },
+    {
+        "doc_id": 128,
+        "items": {
+            "McKenna": "Catherine McKenna",
+            "Burelli": "Thomas Burelli"
+        }
+    },
+    {
+        "doc_id": 129,
+        "items": {}
+    },
+    {
+        "doc_id": 130,
+        "items": {
+            "Trump": "Donald Trump",
+            "Aspuru - Guzik": "Alan Aspuru - Guzik",
+            "Alan": "Alan Aspuru - Guzik",
+            "- Guzik": "Alan Aspuru - Guzik",
+            "Bernstein": "Alan Bernstein",
+            "Layton": "Anita Layton",
+            "Mank": "Judith Mank",
+            "Famiglietti": "James Famiglietti"
+        }
+    },
+    {
+        "doc_id": 131,
+        "items": {
+            "McKenna": "Catherine McKenna",
+            "Harper": "Stephen Harper"
+        }
+    },
+    {
+        "doc_id": 132,
+        "items": {
+            "Moe": "Scott Moe"
+        }
+    },
+    {
+        "doc_id": 133,
+        "items": {
+            "Corrigan": "Derek Corrigan"
+        }
+    },
+    {
+        "doc_id": 134,
+        "items": {
+            "Singh": "Jagmeet Singh",
+            "Chantal": "Chantal Hébert",
+            "Paul": "Paul Wells",
+            "Marie": "Marie Vastel",
+            "Christopherson": "David Christopherson",
+            "HÉBERT": "CHANTAL HÉBERT",
+            "VASTEL": "MARIE VASTEL",
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 135,
+        "items": {
+            "May": "Elizabeth May"
+        }
+    },
+    {
+        "doc_id": 136,
+        "items": {
+            "Moe": "Scott Moe"
+        }
+    },
+    {
+        "doc_id": 137,
+        "items": {
+            "Putin": "Vladimir Putin",
+            "Sergei": "Sergei Skripal",
+            "Skripal": "Sergei Skripal",
+            "Yulia": "Yulia Skripal",
+            "Freeland": "Chrystia Freeland",
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 138,
+        "items": {
+            "Patterson": "Desirée Patterson"
+        }
+    },
+    {
+        "doc_id": 139,
+        "items": {
+            "Moe": "Scott Moe",
+            "Docken": "Clint Docken"
+        }
+    },
+    {
+        "doc_id": 140,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Moe": "Scott Moe",
+            "Kim": "Kim Jong Un"
+        }
+    },
+    {
+        "doc_id": 141,
+        "items": {}
+    },
+    {
+        "doc_id": 142,
+        "items": {
+            "Snoop Dog": "Snoop Dogg",
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 143,
+        "items": {
+            "McKenna": "Catherine McKenna"
+        }
+    },
+    {
+        "doc_id": 144,
+        "items": {
+            "Masrani": "Bharat Masrani"
+        }
+    },
+    {
+        "doc_id": 145,
+        "items": {
+            "Fischer": "Carolyn Fischer"
+        }
+    },
+    {
+        "doc_id": 146,
+        "items": {}
+    },
+    {
+        "doc_id": 147,
+        "items": {
+            "Wynne": "Kathleen Wynne",
+            "Ford": "Doug Ford",
+            "Fedeli": "Vic Fedeli"
+        }
+    },
+    {
+        "doc_id": 148,
+        "items": {}
+    },
+    {
+        "doc_id": 149,
+        "items": {
+            "Horgan": "John Horgan"
+        }
+    },
+    {
+        "doc_id": 150,
+        "items": {
+            "Weaver": "Andrew Weaver"
+        }
+    },
+    {
+        "doc_id": 151,
+        "items": {}
+    },
+    {
+        "doc_id": 152,
+        "items": {
+            "Dickinson": "David Dickinson"
+        }
+    },
+    {
+        "doc_id": 153,
+        "items": {
+            "Wiacek": "Aldona Wiacek",
+            "Ross": "John Ross"
+        }
+    },
+    {
+        "doc_id": 154,
+        "items": {
+            "Duncan": "Kirsty Duncan",
+            "Flanders": "Dan Flanders",
+            "Redfield": "Robert Redfield Jr"
+        }
+    },
+    {
+        "doc_id": 155,
+        "items": {}
+    },
+    {
+        "doc_id": 156,
+        "items": {
+            "David Coon": "David Coonis"
+        }
+    },
+    {
+        "doc_id": 157,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Gallant": "Brian Gallant",
+            "McKenna": "Catherine McKenna"
+        }
+    },
+    {
+        "doc_id": 158,
+        "items": {}
+    },
+    {
+        "doc_id": 159,
+        "items": {}
+    },
+    {
+        "doc_id": 160,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Couillard": "Philippe Couillard",
+            "Wynne": "Kathleen Wynne",
+            "Legault": "François Legault",
+            "Ford": "Doug Ford",
+            "Chantal Hébert": "Chantal Hébertis"
+        }
+    },
+    {
+        "doc_id": 161,
+        "items": {}
+    },
+    {
+        "doc_id": 162,
+        "items": {
+            "Obama": "Barack Obama",
+            "Pruitt": "Scott Pruitt",
+            "McCabe": "Janet McCabe"
+        }
+    },
+    {
+        "doc_id": 163,
+        "items": {
+            "David": "David Mainse",
+            "Jesus": "Jesus Christ",
+            "Ford": "Doug Ford",
+            "Trump": "Donald Trump",
+            "Paul": "Paul Melnichuk",
+            "Kenney": "Jason Kenney",
+            "Elia": "Christian Elia",
+            "Granic Allen": "Tanya Granic Allen",
+            "Oosterhoff": "Sam Oosterhoff",
+            "McVety": "Charles McVety",
+            "Tuns": "Paul Tuns",
+            "Graham": "Billy Graham",
+            "Helwig": "Maggie Helwig",
+            "Wallis": "Wallis Jr"
+        }
+    },
+    {
+        "doc_id": 164,
+        "items": {}
+    },
+    {
+        "doc_id": 165,
+        "items": {
+            "Jarrod": "Jarrod Goldin",
+            "Goldin": "Jarrod Goldin",
+            "Darren": "Darren Goldin",
+            "Loraine": "Loraine Goldin",
+            "Soma": "Tammara Soma",
+            "Ross": "Kathlyne Ross"
+        }
+    },
+    {
+        "doc_id": 166,
+        "items": {
+            "Wallace": "Peter Wallace"
+        }
+    },
+    {
+        "doc_id": 167,
+        "items": {
+            "Trump": "Donald Trump",
+            "Morneau": "Bill Morneau",
+            "Chandler": "Mark Chandler",
+            "Couillard": "Phillippe Couillard",
+            "Leitao": "Carlos Leitao",
+            "Sousa": "Charles Sousa"
+        }
+    },
+    {
+        "doc_id": 168,
+        "items": {
+            "Trump": "Donald Trump",
+            "Morneau": "Bill Morneau",
+            "Chandler": "Mark Chandler",
+            "Couillard": "Phillippe Couillard",
+            "Leitao": "Carlos Leitao",
+            "Sousa": "Charles Sousa"
+        }
+    },
+    {
+        "doc_id": 169,
+        "items": {}
+    },
+    {
+        "doc_id": 170,
+        "items": {
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 171,
+        "items": {}
+    },
+    {
+        "doc_id": 172,
+        "items": {
+            "Trump": "Donald Trump",
+            "Morneau": "Bill Morneau",
+            "Chandler": "Mark Chandler",
+            "Couillard": "Phillippe Couillard",
+            "Leitao": "Carlos Leitao",
+            "Sousa": "Charles Sousa"
+        }
+    },
+    {
+        "doc_id": 173,
+        "items": {
+            "Trump": "Donald Trump",
+            "Morneau": "Bill Morneau",
+            "Chandler": "Mark Chandler",
+            "Couillard": "Phillippe Couillard",
+            "Leitao": "Carlos Leitao",
+            "Sousa": "Charles Sousa"
+        }
+    },
+    {
+        "doc_id": 174,
+        "items": {
+            "Trump": "Donald Trump",
+            "Morneau": "Bill Morneau",
+            "Chandler": "Mark Chandler",
+            "Couillard": "Phillippe Couillard",
+            "Leitao": "Carlos Leitao",
+            "Sousa": "Charles Sousa"
+        }
+    },
+    {
+        "doc_id": 175,
+        "items": {
+            "Trump": "Donald Trump",
+            "Morneau": "Bill Morneau",
+            "Chandler": "Mark Chandler",
+            "Couillard": "Phillippe Couillard",
+            "Leitao": "Carlos Leitao",
+            "Sousa": "Charles Sousa"
+        }
+    },
+    {
+        "doc_id": 176,
+        "items": {
+            "Trump": "Donald Trump",
+            "Morneau": "Bill Morneau",
+            "Chandler": "Mark Chandler",
+            "Couillard": "Phillippe Couillard",
+            "Leitao": "Carlos Leitao",
+            "Sousa": "Charles Sousa"
+        }
+    },
+    {
+        "doc_id": 177,
+        "items": {
+            "Natyshak": "Taras Natyshak",
+            "Ballard": "Chris Ballard"
+        }
+    },
+    {
+        "doc_id": 178,
+        "items": {
+            "Pinker": "Steven Pinker"
+        }
+    },
+    {
+        "doc_id": 179,
+        "items": {
+            "Trump": "Donald Trump",
+            "Morneau": "Bill Morneau",
+            "Chandler": "Mark Chandler",
+            "Couillard": "Phillippe Couillard",
+            "Leitao": "Carlos Leitao",
+            "Sousa": "Charles Sousa"
+        }
+    },
+    {
+        "doc_id": 180,
+        "items": {}
+    },
+    {
+        "doc_id": 181,
+        "items": {
+            "Trump": "Donald Trump",
+            "Morneau": "Bill Morneau",
+            "Chandler": "Mark Chandler",
+            "Couillard": "Phillippe Couillard",
+            "Leitao": "Carlos Leitao",
+            "Sousa": "Charles Sousa"
+        }
+    },
+    {
+        "doc_id": 182,
+        "items": {
+            "Marsh": "Tim Marsh",
+            "Day": "Cindy Day"
+        }
+    },
+    {
+        "doc_id": 183,
+        "items": {}
+    },
+    {
+        "doc_id": 184,
+        "items": {
+            "Pruitt": "Scott Pruitt",
+            "J": "Justina Fugh",
+            "Hart": "Steven Hart",
+            "Fugh": "Justina Fugh",
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 185,
+        "items": {
+            "Buote": "Dryden Buote",
+            "Elsner": "Detlev Elsner",
+            "Drost": "Bill Drost"
+        }
+    },
+    {
+        "doc_id": 186,
+        "items": {
+            "Pagliaro": "Jennifer Pagliaro",
+            "Beamish": "Brian Beamish",
+            "Conacher": "Duff Conacher",
+            "Larsen": "Mike Larsen"
+        }
+    },
+    {
+        "doc_id": 187,
+        "items": {
+            "Pagliaro": "Jennifer Pagliaro",
+            "Beamish": "Brian Beamish",
+            "Conacher": "Duff Conacher",
+            "Larsen": "Mike Larsen"
+        }
+    },
+    {
+        "doc_id": 188,
+        "items": {}
+    },
+    {
+        "doc_id": 189,
+        "items": {}
+    },
+    {
+        "doc_id": 190,
+        "items": {
+            "Harper": "Stephen Harper",
+            "Chretien": "Jean Chretien"
+        }
+    },
+    {
+        "doc_id": 191,
+        "items": {}
+    },
+    {
+        "doc_id": 192,
+        "items": {
+            "Laura": "Laura Stone",
+            "Joyce": "Joyce Napier",
+            "Craig": "Craig Oliver",
+            "Wall": "Colter Wall",
+            "Colter": "Colter Wall",
+            "Brad": "Brad Wall"
+        }
+    },
+    {
+        "doc_id": 193,
+        "items": {}
+    },
+    {
+        "doc_id": 194,
+        "items": {
+            "Cook": "Tim Cook",
+            "Benioff": "Marc Benioff",
+            "Schultz": "Howard Schultz"
+        }
+    },
+    {
+        "doc_id": 195,
+        "items": {}
+    },
+    {
+        "doc_id": 196,
+        "items": {}
+    },
+    {
+        "doc_id": 197,
+        "items": {
+            "McLeman": "Robert McLeman",
+            "Glutek": "Mike Glutek",
+            "Gudz": "Todd Gudz"
+        }
+    },
+    {
+        "doc_id": 198,
+        "items": {
+            "Trump": "Donald Trump",
+            "Pruitt": "Scott Pruitt",
+            "McKenna": "Catherine McKenna",
+            "Woynillowicz": "Dan Woynillowicz"
+        }
+    },
+    {
+        "doc_id": 199,
+        "items": {
+            "Hamilton": "Don Hamilton",
+            "Lane": "Paul Lane"
+        }
+    },
+    {
+        "doc_id": 200,
+        "items": {}
+    },
+    {
+        "doc_id": 201,
+        "items": {}
+    },
+    {
+        "doc_id": 202,
+        "items": {
+            "Lehnherr": "Igor Lehnherr",
+            "Smol": "John Smol"
+        }
+    },
+    {
+        "doc_id": 203,
+        "items": {}
+    },
+    {
+        "doc_id": 204,
+        "items": {
+            "Netanyahu": "Benjamin Netanyahu",
+            "Sedin": "Daniel Sedin",
+            "Bochco": "Steven Bochco",
+            "Mimi": "Mimi Kuzyk",
+            "Kuzyk": "Mimi Kuzyk",
+            "Nault": "Bob Nault",
+            "Wraith": "Geralyn Wraith",
+            "Shuster": "John Shuster",
+            "Trump": "Donald Trump",
+            "Mandela": "Nelson Mandela",
+            "Johnson": "Gene Johnson",
+            "Pruitt": "Scott Pruitt"
+        }
+    },
+    {
+        "doc_id": 205,
+        "items": {
+            "Greg": "Greg MacEachern",
+            "Kate": "Kate Harrison",
+            "Evan": "Evan Solomon",
+            "McKenna": "Catherine McKenna"
+        }
+    },
+    {
+        "doc_id": 206,
+        "items": {
+            "Boudreaux": "Don Boudreaux"
+        }
+    },
+    {
+        "doc_id": 207,
+        "items": {
+            "Obama": "Barack Obama",
+            "Pruitt": "Scott Pruitt",
+            "McCabe": "Andrew McCabe"
+        }
+    },
+    {
+        "doc_id": 208,
+        "items": {
+            "Boudreaux": "Don Boudreaux"
+        }
+    },
+    {
+        "doc_id": 209,
+        "items": {
+            "Boudreaux": "Don Boudreaux",
+            "Matthew Lau": "Matthew Lauis"
+        }
+    },
+    {
+        "doc_id": 210,
+        "items": {
+            "Obama": "Barack Obama",
+            "Pruitt": "Scott Pruitt",
+            "McCabe": "Andrew McCabe",
+            "Peng": "Yihong Peng"
+        }
+    },
+    {
+        "doc_id": 211,
+        "items": {
+            "Jahn": "Alexandra Jahn",
+            "Fyfe": "John Fyfe"
+        }
+    },
+    {
+        "doc_id": 212,
+        "items": {
+            "McKenna": "Catherine McKenna",
+            "Morneau": "Bill Morneau",
+            "Trump": "Donald Trump",
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 213,
+        "items": {
+            "Kenney": "Jason Kenney",
+            "Gratton": "Pierre Gratton"
+        }
+    },
+    {
+        "doc_id": 214,
+        "items": {
+            "Acton": "Dwayne Acton",
+            "Robichaud": "Claude Robichaud",
+            "Lieske": "David Lieske"
+        }
+    },
+    {
+        "doc_id": 215,
+        "items": {
+            "Rossi": "Rocco Rossi"
+        }
+    },
+    {
+        "doc_id": 216,
+        "items": {}
+    },
+    {
+        "doc_id": 217,
+        "items": {
+            "Daniel": "Daniel Tyrie",
+            "Kaitlin": "Kaitlin Thompson"
+        }
+    },
+    {
+        "doc_id": 218,
+        "items": {}
+    },
+    {
+        "doc_id": 219,
+        "items": {}
+    },
+    {
+        "doc_id": 220,
+        "items": {
+            "Lehnherr": "Igor Lehnherr",
+            "Smol": "John Smol"
+        }
+    },
+    {
+        "doc_id": 221,
+        "items": {
+            "Reed": "Chad Reed"
+        }
+    },
+    {
+        "doc_id": 222,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 223,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "McKenna": "Catherine McKenna",
+            "Solomon": "Evan Solomon",
+            "Wall": "Brad Wall"
+        }
+    },
+    {
+        "doc_id": 224,
+        "items": {}
+    },
+    {
+        "doc_id": 225,
+        "items": {}
+    },
+    {
+        "doc_id": 226,
+        "items": {}
+    },
+    {
+        "doc_id": 227,
+        "items": {
+            "Pelé": "Cap - Pelé"
+        }
+    },
+    {
+        "doc_id": 228,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "McKenna": "Catherine McKenna",
+            "Solomon": "Evan Solomon",
+            "Wall": "Brad Wall"
+        }
+    },
+    {
+        "doc_id": 229,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "McKenna": "Catherine McKenna",
+            "Solomon": "Evan Solomon",
+            "Wall": "Brad Wall"
+        }
+    },
+    {
+        "doc_id": 230,
+        "items": {
+            "Fraser": "Bill Fraser"
+        }
+    },
+    {
+        "doc_id": 231,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "McKenna": "Catherine McKenna",
+            "Solomon": "Evan Solomon",
+            "Wall": "Brad Wall"
+        }
+    },
+    {
+        "doc_id": 232,
+        "items": {
+            "Pope": "Pope Benedict",
+            "Chartrand": "David Chartrand",
+            "Eklund": "Robert Eklund",
+            "Carr": "Jim Carr",
+            "Jaffer": "Mobina Jaffer",
+            "McPhedran": "Marilou McPhedran",
+            "May": "Elizabeth May",
+            "Stewart": "Kennedy Stewart",
+            "Pallister": "Brian Pallister"
+        }
+    },
+    {
+        "doc_id": 233,
+        "items": {}
+    },
+    {
+        "doc_id": 234,
+        "items": {}
+    },
+    {
+        "doc_id": 235,
+        "items": {
+            "Ibbitson": "John Ibbitson"
+        }
+    },
+    {
+        "doc_id": 236,
+        "items": {
+            "Notley": "Rachel Notley",
+            "McKenna": "Catherine McKenna",
+            "Thériault": "Caroline Thériault"
+        }
+    },
+    {
+        "doc_id": 237,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Trump": "Donald Trump",
+            "Stewart": "Keith Stewart",
+            "Pruitt": "Scott Pruitt",
+            "Nantais": "Mark Nantais"
+        }
+    },
+    {
+        "doc_id": 238,
+        "items": {
+            "Dubois": "Melanie Dubois"
+        }
+    },
+    {
+        "doc_id": 239,
+        "items": {
+            "Ragan": "Christopher Ragan"
+        }
+    },
+    {
+        "doc_id": 240,
+        "items": {
+            "Beugin": "Dale Beugin"
+        }
+    },
+    {
+        "doc_id": 241,
+        "items": {}
+    },
+    {
+        "doc_id": 242,
+        "items": {
+            "Beugin": "Dale Beugin"
+        }
+    },
+    {
+        "doc_id": 243,
+        "items": {}
+    },
+    {
+        "doc_id": 244,
+        "items": {}
+    },
+    {
+        "doc_id": 245,
+        "items": {
+            "Beugin": "Dale Beugin"
+        }
+    },
+    {
+        "doc_id": 246,
+        "items": {
+            "Moe": "Scott Moe"
+        }
+    },
+    {
+        "doc_id": 247,
+        "items": {}
+    },
+    {
+        "doc_id": 248,
+        "items": {}
+    },
+    {
+        "doc_id": 249,
+        "items": {}
+    },
+    {
+        "doc_id": 250,
+        "items": {}
+    },
+    {
+        "doc_id": 251,
+        "items": {
+            "Moe": "Scott Moe"
+        }
+    },
+    {
+        "doc_id": 252,
+        "items": {
+            "Beugin": "Dale Beugin"
+        }
+    },
+    {
+        "doc_id": 253,
+        "items": {
+            "Beugin": "Dale Beugin"
+        }
+    },
+    {
+        "doc_id": 254,
+        "items": {
+            "McKitrick": "Ross McKitrick",
+            "Ford": "Doug Ford"
+        }
+    },
+    {
+        "doc_id": 255,
+        "items": {}
+    },
+    {
+        "doc_id": 256,
+        "items": {}
+    },
+    {
+        "doc_id": 257,
+        "items": {}
+    },
+    {
+        "doc_id": 258,
+        "items": {
+            "Ragan": "Chris Ragan"
+        }
+    },
+    {
+        "doc_id": 259,
+        "items": {
+            "Scheer": "Andrew Scheer",
+            "Jean": "Daniel Jean"
+        }
+    },
+    {
+        "doc_id": 260,
+        "items": {
+            "Nasim": "Nasim Aghdam"
+        }
+    },
+    {
+        "doc_id": 261,
+        "items": {
+            "Carter": "Tanya Carter",
+            "Butcher": "Nicholas Butcher",
+            "Johnston": "Kristin Johnston",
+            "Strickland": "Todd Strickland",
+            "Vieau": "Shane Vieau"
+        }
+    },
+    {
+        "doc_id": 262,
+        "items": {
+            "Ragan": "Chris Ragan"
+        }
+    },
+    {
+        "doc_id": 263,
+        "items": {
+            "Ragan": "Chris Ragan"
+        }
+    },
+    {
+        "doc_id": 264,
+        "items": {}
+    },
+    {
+        "doc_id": 265,
+        "items": {}
+    },
+    {
+        "doc_id": 266,
+        "items": {}
+    },
+    {
+        "doc_id": 267,
+        "items": {
+            "Trump": "Donald Trump",
+            "Bill": "Bill Cosby",
+            "Cosby": "Bill Cosby",
+            "King": "Martin Luther King Junior",
+            "McKenna": "Catherine McKenna"
+        }
+    },
+    {
+        "doc_id": 268,
+        "items": {}
+    },
+    {
+        "doc_id": 269,
+        "items": {
+            "King": "Martin Luther King Junior"
+        }
+    },
+    {
+        "doc_id": 270,
+        "items": {
+            "Kogon": "David Kogon"
+        }
+    },
+    {
+        "doc_id": 271,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Hoffman": "Sarah Hoffman",
+            "Pont": "Lisa Pont",
+            "Freeland": "Chrystia Freeland",
+            "Trump": "Donald Trump",
+            "Doug": "Doug Ford",
+            "Burke": "Sean Burke",
+            "Chretien": "Jean Chretien",
+            "Landry": "Bernard Landry",
+            "Ouellet": "Martine Ouellet",
+            "King": "Martin Luther King Jr",
+            "Zuckerberg": "Mark Zuckerberg",
+            "Lonergan": "Kenneth Lonergan"
+        }
+    },
+    {
+        "doc_id": 272,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Blair": "Bill Blair"
+        }
+    },
+    {
+        "doc_id": 273,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 274,
+        "items": {
+            "McKenna": "Catherine McKenna",
+            "Ford": "Doug Ford",
+            "Wynne": "Kathleen Wynne"
+        }
+    },
+    {
+        "doc_id": 275,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "B": "Jolan Bailey",
+            "Pullman": "Emma Pullman"
+        }
+    },
+    {
+        "doc_id": 276,
+        "items": {
+            "Chris": "Chris Ragan"
+        }
+    },
+    {
+        "doc_id": 277,
+        "items": {
+            "Moar": "Nancy Moar",
+            "Darling": "Don Darling"
+        }
+    },
+    {
+        "doc_id": 278,
+        "items": {
+            "McKenna": "Catherine McKenna",
+            "Blair": "Danny Blair",
+            "Mauro": "Ian Mauro"
+        }
+    },
+    {
+        "doc_id": 279,
+        "items": {
+            "Sopuck": "Robert Sopuck",
+            "Schwartz": "Bryan Schwartz",
+            "McKenna": "Catherine McKenna"
+        }
+    },
+    {
+        "doc_id": 280,
+        "items": {
+            "McKenna": "Catherine McKenna",
+            "Ford": "Doug Ford",
+            "Wynne": "Kathleen Wynne"
+        }
+    },
+    {
+        "doc_id": 281,
+        "items": {}
+    },
+    {
+        "doc_id": 282,
+        "items": {
+            "Ford": "Doug Ford"
+        }
+    },
+    {
+        "doc_id": 283,
+        "items": {
+            "Keleti": "Robert Keleti",
+            "Stewart": "Jerome Stewart"
+        }
+    },
+    {
+        "doc_id": 284,
+        "items": {}
+    },
+    {
+        "doc_id": 285,
+        "items": {}
+    },
+    {
+        "doc_id": 286,
+        "items": {
+            "Trump": "Donald Trump",
+            "Pruitt": "Scott Pruitt"
+        }
+    },
+    {
+        "doc_id": 287,
+        "items": {
+            "Keleti": "Robert Keleti",
+            "Stewart": "Jerome Stewart"
+        }
+    },
+    {
+        "doc_id": 288,
+        "items": {
+            "Trump": "Donald Trump",
+            "Pruitt": "Scott Pruitt"
+        }
+    },
+    {
+        "doc_id": 289,
+        "items": {}
+    },
+    {
+        "doc_id": 290,
+        "items": {
+            "Trump": "Donald Trump",
+            "Ford": "Doug Ford",
+            "Doug": "Doug Ford"
+        }
+    },
+    {
+        "doc_id": 291,
+        "items": {
+            "Wynne": "Kathleen Wynne",
+            "Potts": "Arthur Potts"
+        }
+    },
+    {
+        "doc_id": 292,
+        "items": {
+            "Felton": "Venay Felton",
+            "Jarvis": "Sophie Jarvis",
+            "Eisen": "Alicia Eisen"
+        }
+    },
+    {
+        "doc_id": 293,
+        "items": {}
+    },
+    {
+        "doc_id": 294,
+        "items": {}
+    },
+    {
+        "doc_id": 295,
+        "items": {}
+    },
+    {
+        "doc_id": 296,
+        "items": {}
+    },
+    {
+        "doc_id": 297,
+        "items": {
+            "McKenna": "Catherine McKenna",
+            "Ford": "Doug Ford",
+            "Wynne": "Kathleen Wynne"
+        }
+    },
+    {
+        "doc_id": 298,
+        "items": {}
+    },
+    {
+        "doc_id": 299,
+        "items": {
+            "Shane": "Shane Koyczan",
+            "Me": "Melanie Wood",
+            "Ali": "Muhammad Ali",
+            "Free": "Jeremy Freedman",
+            "Marcus": "Marcus Durrant",
+            "Jon": "Jonathan Davis",
+            "Roy": "Roy Woods Denzel Spencer",
+            "Mills": "Darby Mills",
+            "Roy Woods": "Roy Woods Denzel Spencer",
+            "Niall": "Niall McNeil",
+            "Paul": "Paul Sheldon",
+            "Annie": "Annie Wilkes",
+            "Leo": "Leonard Cohen",
+            "Charles": "Charles Condomine"
+        }
+    },
+    {
+        "doc_id": 300,
+        "items": {}
+    },
+    {
+        "doc_id": 301,
+        "items": {}
+    },
+    {
+        "doc_id": 302,
+        "items": {}
+    },
+    {
+        "doc_id": 303,
+        "items": {}
+    },
+    {
+        "doc_id": 304,
+        "items": {
+            "Notley": "Rachel Notley"
+        }
+    },
+    {
+        "doc_id": 305,
+        "items": {
+            "Prysizney": "Amanda Prysizney"
+        }
+    },
+    {
+        "doc_id": 306,
+        "items": {}
+    },
+    {
+        "doc_id": 307,
+        "items": {
+            "Notley": "Rachel Notley"
+        }
+    },
+    {
+        "doc_id": 308,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "B": "Jolan Bailey",
+            "Pullman": "Emma Pullman"
+        }
+    },
+    {
+        "doc_id": 309,
+        "items": {
+            "Phillips": "Shannon Phillips",
+            "McKenna": "Catherine McKenna"
+        }
+    },
+    {
+        "doc_id": 310,
+        "items": {
+            "Notley": "Rachel Notley"
+        }
+    },
+    {
+        "doc_id": 311,
+        "items": {}
+    },
+    {
+        "doc_id": 312,
+        "items": {
+            "McKenna": "Catherine McKenna",
+            "Kenney": "Jason Kenney",
+            "Ragan": "Chris Ragan",
+            "Tombe": "Trevor Tombe"
+        }
+    },
+    {
+        "doc_id": 313,
+        "items": {
+            "Jon": "Jonathan Davis",
+            "Roy": "Roy Woods Denzel Spencer",
+            "Kaldestad": "Steve Kaldestad",
+            "Mills": "Darby Mills",
+            "Roy Woods": "Roy Woods Denzel Spencer",
+            "Leo": "Leonard Cohen",
+            "Paul": "Paul Sheldon",
+            "Annie": "Annie Wilkes",
+            "Charles": "Charles Condomine",
+            "Me": "Meg",
+            "Shane": "Shane Koyczan"
+        }
+    },
+    {
+        "doc_id": 314,
+        "items": {}
+    },
+    {
+        "doc_id": 315,
+        "items": {
+            "Kogon": "David Kogon"
+        }
+    },
+    {
+        "doc_id": 316,
+        "items": {
+            "Cutler": "Ron Cutler",
+            "MacLellan": "Geoff MacLellan",
+            "Lucas - Jefferies": "Marian Lucas - Jefferies"
+        }
+    },
+    {
+        "doc_id": 317,
+        "items": {
+            "Mallory": "Mark Mallory"
+        }
+    },
+    {
+        "doc_id": 318,
+        "items": {
+            "Dudley": "Drew Dudley"
+        }
+    },
+    {
+        "doc_id": 319,
+        "items": {
+            "Liu": "Henry Liu"
+        }
+    },
+    {
+        "doc_id": 320,
+        "items": {
+            "White": "Darryl White",
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 321,
+        "items": {}
+    },
+    {
+        "doc_id": 322,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Kelly": "John Kelly"
+        }
+    },
+    {
+        "doc_id": 323,
+        "items": {
+            "Wiseman": "Justin Wiseman"
+        }
+    },
+    {
+        "doc_id": 324,
+        "items": {
+            "Kinew": "Wab Kinew",
+            "Pallister": "Brian Pallister",
+            "Squires": "Rochelle Squires"
+        }
+    },
+    {
+        "doc_id": 325,
+        "items": {}
+    },
+    {
+        "doc_id": 326,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Yulia": "Yulia Skripal",
+            "Arden": "Jann Arden"
+        }
+    },
+    {
+        "doc_id": 327,
+        "items": {}
+    },
+    {
+        "doc_id": 328,
+        "items": {}
+    },
+    {
+        "doc_id": 329,
+        "items": {
+            "Gallant": "Brian Gallant",
+            "Trump": "Donald Trump",
+            "Trudeau": "Justin Trudeau",
+            "Plante": "Valerie Plante",
+            "Jagmeet": "Jagmeet Singh",
+            "Singh": "Jagmeet Singh",
+            "Del Mastro": "Dean Del Mastro"
+        }
+    },
+    {
+        "doc_id": 330,
+        "items": {
+            "Obama": "Barack Obama",
+            "Dumbrille": "Andrew Dumbrille"
+        }
+    },
+    {
+        "doc_id": 331,
+        "items": {}
+    },
+    {
+        "doc_id": 332,
+        "items": {
+            "Morgan": "John Morgan",
+            "”": "” Morgan",
+            "Semmler": "Sarah Semmler"
+        }
+    },
+    {
+        "doc_id": 333,
+        "items": {
+            "Pallister": "Brian Pallister",
+            "Kinew": "Wab Kinew",
+            "Squires": "Rochelle Squires",
+            "Friesen": "Cameron Friesen"
+        }
+    },
+    {
+        "doc_id": 334,
+        "items": {}
+    },
+    {
+        "doc_id": 335,
+        "items": {}
+    },
+    {
+        "doc_id": 336,
+        "items": {
+            "White": "Jack White",
+            "Comeau": "Sarah Jane Comeau"
+        }
+    },
+    {
+        "doc_id": 337,
+        "items": {
+            "Gelfand": "Julie Gelfand"
+        }
+    },
+    {
+        "doc_id": 338,
+        "items": {
+            "Andrew Coyne": "Andrew Coyneis"
+        }
+    },
+    {
+        "doc_id": 339,
+        "items": {}
+    },
+    {
+        "doc_id": 340,
+        "items": {}
+    },
+    {
+        "doc_id": 341,
+        "items": {}
+    },
+    {
+        "doc_id": 342,
+        "items": {
+            "Cap - Pelé": "Joseph Richard Cap - Pelé"
+        }
+    },
+    {
+        "doc_id": 343,
+        "items": {}
+    },
+    {
+        "doc_id": 344,
+        "items": {
+            "Moe": "Scott Moe"
+        }
+    },
+    {
+        "doc_id": 345,
+        "items": {
+            "Kenney": "Jason Kenney"
+        }
+    },
+    {
+        "doc_id": 346,
+        "items": {
+            "Loke": "Huston Loke",
+            "Waitzer": "Edward Waitzer"
+        }
+    },
+    {
+        "doc_id": 347,
+        "items": {
+            "Wynne": "Kathleen Wynne",
+            "Potts": "Arthur Potts"
+        }
+    },
+    {
+        "doc_id": 348,
+        "items": {
+            "Behrendt": "Ronald Behrendt"
+        }
+    },
+    {
+        "doc_id": 349,
+        "items": {
+            "Coletto": "David Coletto",
+            "Trudeau": "Justin Trudeau",
+            "Wynne": "Kathleen Wynne",
+            "Sanders": "Bernie Sanders"
+        }
+    },
+    {
+        "doc_id": 350,
+        "items": {}
+    },
+    {
+        "doc_id": 351,
+        "items": {
+            "Trump": "Donald Trump",
+            "Ford": "Doug Ford",
+            "Doug": "Doug Ford"
+        }
+    },
+    {
+        "doc_id": 352,
+        "items": {}
+    },
+    {
+        "doc_id": 353,
+        "items": {
+            "Trump": "Donald Trump",
+            "Ford": "Doug Ford",
+            "Doug": "Doug Ford"
+        }
+    },
+    {
+        "doc_id": 354,
+        "items": {
+            "Wynne": "Kathleen Wynne",
+            "Potts": "Arthur Potts"
+        }
+    },
+    {
+        "doc_id": 355,
+        "items": {
+            "Eichler": "Ralph Eichler",
+            "Mazier": "Dan Mazier"
+        }
+    },
+    {
+        "doc_id": 356,
+        "items": {}
+    },
+    {
+        "doc_id": 357,
+        "items": {
+            "McKenna": "Catherine McKenna",
+            "Ford": "Doug Ford",
+            "Kenney": "Jason Kenney",
+            "Theriault": "Caroline Theriault"
+        }
+    },
+    {
+        "doc_id": 358,
+        "items": {}
+    },
+    {
+        "doc_id": 359,
+        "items": {}
+    },
+    {
+        "doc_id": 360,
+        "items": {}
+    },
+    {
+        "doc_id": 361,
+        "items": {}
+    },
+    {
+        "doc_id": 362,
+        "items": {
+            "Chretien": "Jean Chretien"
+        }
+    },
+    {
+        "doc_id": 363,
+        "items": {}
+    },
+    {
+        "doc_id": 364,
+        "items": {}
+    },
+    {
+        "doc_id": 365,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 366,
+        "items": {}
+    },
+    {
+        "doc_id": 367,
+        "items": {}
+    },
+    {
+        "doc_id": 368,
+        "items": {}
+    },
+    {
+        "doc_id": 369,
+        "items": {}
+    },
+    {
+        "doc_id": 370,
+        "items": {}
+    },
+    {
+        "doc_id": 371,
+        "items": {
+            "Obama": "Barack Obama",
+            "Dumbrille": "Andrew Dumbrille"
+        }
+    },
+    {
+        "doc_id": 372,
+        "items": {
+            "Lehnherr": "Igor Lehnherr",
+            "Smol": "John Smol"
+        }
+    },
+    {
+        "doc_id": 373,
+        "items": {
+            "Watt - Cloutier": "Sheila Watt - Cloutier"
+        }
+    },
+    {
+        "doc_id": 374,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "George - Parker": "Cedar George - Parker"
+        }
+    },
+    {
+        "doc_id": 375,
+        "items": {
+            "Burrows": "Kirsten Burrows",
+            "Johnson": "Mark Johnson"
+        }
+    },
+    {
+        "doc_id": 376,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "George - Parker": "Cedar George - Parker"
+        }
+    },
+    {
+        "doc_id": 377,
+        "items": {
+            "Trump": "Donald Trump",
+            "Pruitt": "Scott Pruitt"
+        }
+    },
+    {
+        "doc_id": 378,
+        "items": {
+            "K": "Kristin Johnston",
+            "Koshwal": "Silva Koshwal"
+        }
+    },
+    {
+        "doc_id": 379,
+        "items": {
+            "Dumbrille": "Andrew Dumbrille"
+        }
+    },
+    {
+        "doc_id": 380,
+        "items": {
+            "Lloyd": "Lloyd Robertson",
+            "Evan": "Evan Solomon",
+            "Mia": "Mia Rabson",
+            "Omar": "Omar Sachedina",
+            "Don": "Donald Trump",
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 381,
+        "items": {
+            "Scheer": "Andrew Scheer",
+            "Trump": "Donald Trump",
+            "Jean": "Daniel Jean"
+        }
+    },
+    {
+        "doc_id": 382,
+        "items": {
+            "Pallister": "Brian Pallister"
+        }
+    },
+    {
+        "doc_id": 383,
+        "items": {}
+    },
+    {
+        "doc_id": 384,
+        "items": {
+            "Loft": "Ange Loft",
+            "Swanson": "Brendan Swanson"
+        }
+    },
+    {
+        "doc_id": 385,
+        "items": {
+            "Atkinson - Gingrich": "Shawntanna Atkinson - Gingrich",
+            "Shawntanna Atkinson": "Shawntanna Atkinson - Gingrich"
+        }
+    },
+    {
+        "doc_id": 386,
+        "items": {
+            "Iveson": "Don Iveson"
+        }
+    },
+    {
+        "doc_id": 387,
+        "items": {
+            "Ceci": "Joe Ceci",
+            "Nenshi": "Naheed Nenshi"
+        }
+    },
+    {
+        "doc_id": 388,
+        "items": {}
+    },
+    {
+        "doc_id": 389,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Broen": "Rob Broen",
+            "Williams": "Steve Williams",
+            "Carr": "Jim Carr"
+        }
+    },
+    {
+        "doc_id": 390,
+        "items": {}
+    },
+    {
+        "doc_id": 391,
+        "items": {
+            "Eng": "David Eng",
+            "Pascal": "Pascal Marchand"
+        }
+    },
+    {
+        "doc_id": 392,
+        "items": {}
+    },
+    {
+        "doc_id": 393,
+        "items": {
+            "Wallain": "Patrick Wallain",
+            "Anderson": "Chris Anderson"
+        }
+    },
+    {
+        "doc_id": 394,
+        "items": {
+            "Parker": "Robert Parker"
+        }
+    },
+    {
+        "doc_id": 395,
+        "items": {}
+    },
+    {
+        "doc_id": 396,
+        "items": {
+            "Fodor": "Don Fodor"
+        }
+    },
+    {
+        "doc_id": 397,
+        "items": {}
+    },
+    {
+        "doc_id": 398,
+        "items": {
+            "Phillip": "Stewart Phillip"
+        }
+    },
+    {
+        "doc_id": 399,
+        "items": {
+            "Jason": "Jason Kenney",
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 400,
+        "items": {
+            "Tonda": "Tonda MacCharles",
+            "Bob": "Bob Fife",
+            "Nik": "Nik Nanos",
+            "Ford": "Doug Ford",
+            "Mulcair": "Tom Mulcair",
+            "Jonathan": "Jonathan Pitre"
+        }
+    },
+    {
+        "doc_id": 401,
+        "items": {}
+    },
+    {
+        "doc_id": 402,
+        "items": {
+            "Gelfand": "Julie Gelfand"
+        }
+    },
+    {
+        "doc_id": 403,
+        "items": {
+            "Coon": "David Coon"
+        }
+    },
+    {
+        "doc_id": 404,
+        "items": {
+            "Pallister": "Brian Pallister",
+            "Wall": "Brad Wall",
+            "Klein": "Ralph Klein",
+            "Schwartz": "Bryan Schwartz"
+        }
+    },
+    {
+        "doc_id": 405,
+        "items": {
+            "Kean": "Steve Kean",
+            "Trudeau": "Justin Trudeau",
+            "Notley": "Rachel Notley",
+            "Carr": "Jim Carr",
+            "Horgan": "John Horgan",
+            "Kenney": "Jason Kenney"
+        }
+    },
+    {
+        "doc_id": 406,
+        "items": {}
+    },
+    {
+        "doc_id": 407,
+        "items": {
+            "Shier": "Randall Shier"
+        }
+    },
+    {
+        "doc_id": 408,
+        "items": {
+            "May": "Elizabeth May",
+            "Affleck": "Kenneth Affleck",
+            "Killoran": "Maureen Killoran",
+            "Povah": "Errol Povah"
+        }
+    },
+    {
+        "doc_id": 409,
+        "items": {
+            "Wagner": "Jennifer Wagner"
+        }
+    },
+    {
+        "doc_id": 410,
+        "items": {
+            "K": "Kristin Johnston",
+            "Boyle": "Joshua Boyle",
+            "Koshwal": "Silva Koshwal"
+        }
+    },
+    {
+        "doc_id": 411,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Notley": "Rachel Notley",
+            "Horgan": "John Horgan",
+            "Carr": "Jim Carr",
+            "Stubbs": "Shannon Stubbs",
+            "Thomas": "Melanee Thomas",
+            "Crowley": "Brian Lee Crowley"
+        }
+    },
+    {
+        "doc_id": 412,
+        "items": {
+            "Gloria": "Gloria Galloway",
+            "John": "John Ivison",
+            "Horgan": "John Horgan"
+        }
+    },
+    {
+        "doc_id": 413,
+        "items": {
+            "Harvey": "Andrew Harvey"
+        }
+    },
+    {
+        "doc_id": 414,
+        "items": {
+            "Sylvain Charlebois": "Sylvain Charleboisis",
+            "Tony Walker": "Tony Walkeris"
+        }
+    },
+    {
+        "doc_id": 415,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 416,
+        "items": {
+            "Kean": "Steven Kean",
+            "Horgan": "John Horgan",
+            "Notley": "Rachel Notley",
+            "Trudeau": "Justin Trudeau",
+            "Carr": "Jim Carr",
+            "Heyman": "George Heyman"
+        }
+    },
+    {
+        "doc_id": 417,
+        "items": {}
+    },
+    {
+        "doc_id": 418,
+        "items": {
+            "Tassi": "Filomena Tassi",
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 419,
+        "items": {}
+    },
+    {
+        "doc_id": 420,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Carr": "Jim Carr"
+        }
+    },
+    {
+        "doc_id": 421,
+        "items": {
+            "Horgan": "John Horgan",
+            "Clark": "Christy Clark",
+            "Litwin": "Val Litwin",
+            "B": "Barack Obama"
+        }
+    },
+    {
+        "doc_id": 422,
+        "items": {
+            "Horgan": "John Horgan",
+            "Clark": "Christy Clark",
+            "Litwin": "Val Litwin",
+            "B": "Barack Obama"
+        }
+    },
+    {
+        "doc_id": 423,
+        "items": {
+            "Horgan": "John Horgan",
+            "Clark": "Christy Clark",
+            "Litwin": "Val Litwin",
+            "B": "Barack Obama"
+        }
+    },
+    {
+        "doc_id": 424,
+        "items": {
+            "Horgan": "John Horgan",
+            "Clark": "Christy Clark",
+            "Litwin": "Val Litwin",
+            "B": "Barack Obama"
+        }
+    },
+    {
+        "doc_id": 425,
+        "items": {
+            "Iveson": "Don Iveson",
+            "Bilous": "Deron Bilous"
+        }
+    },
+    {
+        "doc_id": 426,
+        "items": {
+            "Horgan": "John Horgan",
+            "Clark": "Christy Clark",
+            "Litwin": "Val Litwin",
+            "B": "Barack Obama"
+        }
+    },
+    {
+        "doc_id": 427,
+        "items": {
+            "Horgan": "John Horgan",
+            "Clark": "Christy Clark",
+            "Litwin": "Val Litwin",
+            "B": "Barack Obama"
+        }
+    },
+    {
+        "doc_id": 428,
+        "items": {
+            "Horgan": "John Horgan"
+        }
+    },
+    {
+        "doc_id": 429,
+        "items": {
+            "Horgan": "John Horgan",
+            "Clark": "Christy Clark",
+            "Litwin": "Val Litwin",
+            "B": "Barack Obama"
+        }
+    },
+    {
+        "doc_id": 430,
+        "items": {
+            "Yergeau": "Michel Yergeau"
+        }
+    },
+    {
+        "doc_id": 431,
+        "items": {
+            "Horgan": "John Horgan",
+            "Clark": "Christy Clark",
+            "Litwin": "Val Litwin",
+            "B": "Barack Obama"
+        }
+    },
+    {
+        "doc_id": 432,
+        "items": {
+            "Notley": "Rachel Notley",
+            "Horgan": "John Horgan",
+            "Carr": "Jim Carr",
+            "Trudeau": "Justin Trudeau",
+            "Stubbs": "Shannon Stubbs",
+            "Thomas": "Melanee Thomas",
+            "Crowley": "Brian Lee Crowley"
+        }
+    },
+    {
+        "doc_id": 433,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 434,
+        "items": {
+            "Landry": "Jon Landry",
+            "Murph": "Mark Murphy",
+            "Kinney": "Calen Kinney",
+            "Calen": "Calen Kinney"
+        }
+    },
+    {
+        "doc_id": 435,
+        "items": {
+            "Notley": "Rachel Notley",
+            "Horgan": "John Horgan",
+            "Carr": "Jim Carr",
+            "Trudeau": "Justin Trudeau",
+            "Stubbs": "Shannon Stubbs",
+            "Thomas": "Melanee Thomas",
+            "Crowley": "Brian Lee Crowley",
+            "May": "Elizabeth May",
+            "Affleck": "Kenneth Affleck",
+            "Shaw": "Trevor Shaw",
+            "MacKay": "Andi MacKay"
+        }
+    },
+    {
+        "doc_id": 436,
+        "items": {
+            "Saxe": "Dianne Saxe",
+            "Hopkinson": "David Hopkinson",
+            "Granic Allen": "Tanya Granic Allen",
+            "Ford": "Doug Ford",
+            "Rob": "Rob Ford",
+            "Tollman": "Ricky Tollman"
+        }
+    },
+    {
+        "doc_id": 437,
+        "items": {}
+    },
+    {
+        "doc_id": 438,
+        "items": {
+            "Saxe": "Dianne Saxe",
+            "Thibeault": "Glenn Thibeault"
+        }
+    },
+    {
+        "doc_id": 439,
+        "items": {
+            "Doughart": "Jackson Doughart",
+            "Swanson": "Lee Swanson"
+        }
+    },
+    {
+        "doc_id": 440,
+        "items": {
+            "Lawless": "Heather Lawless",
+            "Mulqueen": "Jen Mulqueen",
+            "Jen": "Jen Mulqueen"
+        }
+    },
+    {
+        "doc_id": 441,
+        "items": {}
+    },
+    {
+        "doc_id": 442,
+        "items": {
+            "Squires": "Rochelle Squires",
+            "Kinew": "Wab Kinew"
+        }
+    },
+    {
+        "doc_id": 443,
+        "items": {
+            "Kean": "Steve Kean",
+            "Horgan": "John Horgan"
+        }
+    },
+    {
+        "doc_id": 444,
+        "items": {}
+    },
+    {
+        "doc_id": 445,
+        "items": {
+            "Piano": "Renzo Piano"
+        }
+    },
+    {
+        "doc_id": 446,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 447,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 448,
+        "items": {
+            "Saxe": "Dianne Saxe",
+            "Ballard": "Chris Ballard",
+            "Ford": "Doug Ford"
+        }
+    },
+    {
+        "doc_id": 449,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Horgan": "John Horgan",
+            "Notley": "Rachel Notley",
+            "Kenney": "Jason Kenney",
+            "Harper": "Stephen Harper"
+        }
+    },
+    {
+        "doc_id": 450,
+        "items": {
+            "Horgan": "John Horgan"
+        }
+    },
+    {
+        "doc_id": 451,
+        "items": {
+            "Saxe": "Dianne Saxe"
+        }
+    },
+    {
+        "doc_id": 452,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "McKenna": "Catherine McKenna"
+        }
+    },
+    {
+        "doc_id": 453,
+        "items": {}
+    },
+    {
+        "doc_id": 454,
+        "items": {
+            "Gelfand": "Julie Gelfand"
+        }
+    },
+    {
+        "doc_id": 455,
+        "items": {
+            "Ellis Ross": "Tracee Ellis Ross",
+            "Lacombe": "Romain Lacombe",
+            "Hallam": "Rola Hallam"
+        }
+    },
+    {
+        "doc_id": 456,
+        "items": {}
+    },
+    {
+        "doc_id": 457,
+        "items": {}
+    },
+    {
+        "doc_id": 458,
+        "items": {
+            "Horgan": "John Horgan",
+            "Kung": "Eugene Kung",
+            "Notely": "Rachel Notely",
+            "Connor": "Dennis Connor"
+        }
+    },
+    {
+        "doc_id": 459,
+        "items": {
+            "Oliver": "Eric Oliver"
+        }
+    },
+    {
+        "doc_id": 460,
+        "items": {
+            "Imlay": "Tara Imlay"
+        }
+    },
+    {
+        "doc_id": 461,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Trump": "Donald Trump",
+            "Maduro": "Nicolas Maduro",
+            "Heidrich": "Pablo Heidrich"
+        }
+    },
+    {
+        "doc_id": 462,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Trump": "Donald Trump",
+            "Maduro": "Nicolas Maduro",
+            "Heidrich": "Pablo Heidrich"
+        }
+    },
+    {
+        "doc_id": 463,
+        "items": {
+            "Horgan": "John Horgan"
+        }
+    },
+    {
+        "doc_id": 464,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 465,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Trump": "Donald Trump",
+            "Maduro": "Nicolas Maduro",
+            "Heidrich": "Pablo Heidrich"
+        }
+    },
+    {
+        "doc_id": 466,
+        "items": {
+            "Brons": "Dayna Brons",
+            "Dias": "Jerry Dias",
+            "Butcher": "Nicholas Butcher",
+            "McArthur": "Bruce - McArthur",
+            "Batten": "Jill Batten",
+            "Trudeau": "Justin Trudeau",
+            "Trump": "Donald Trump",
+            "Jean": "Daniel Jean",
+            "Cochrane": "Tom Cochrane",
+            "Ryan": "Paul Ryan",
+            "Andersen": "Frederik Andersen",
+            "Daoust": "Jacques Daoust",
+            "Joly": "Melanie Joly",
+            "Zuckerberg": "Mark Zuckerberg"
+        }
+    },
+    {
+        "doc_id": 467,
+        "items": {
+            "Coon": "David Coon"
+        }
+    },
+    {
+        "doc_id": 468,
+        "items": {
+            "Carr": "Jim Carr",
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 469,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Horgan": "John Horgan",
+            "Notley": "Rachel Notley",
+            "Kenney": "Jason Kenney",
+            "Harper": "Stephen Harper"
+        }
+    },
+    {
+        "doc_id": 470,
+        "items": {
+            "Ford": "Doug Ford",
+            "Doug": "Doug Ford"
+        }
+    },
+    {
+        "doc_id": 471,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Weaver": "Andrew Weaver"
+        }
+    },
+    {
+        "doc_id": 472,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Horgan": "John Horgan",
+            "Notley": "Rachel Notley",
+            "Kenney": "Jason Kenney",
+            "Harper": "Stephen Harper"
+        }
+    },
+    {
+        "doc_id": 473,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Kenney": "Jason Kenney",
+            "Rempel": "Michelle Rempel",
+            "Picard": "Robbie Picard"
+        }
+    },
+    {
+        "doc_id": 474,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Kenney": "Jason Kenney",
+            "Rempel": "Michelle Rempel",
+            "Picard": "Robbie Picard"
+        }
+    },
+    {
+        "doc_id": 475,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Kenney": "Jason Kenney",
+            "Rempel": "Michelle Rempel",
+            "Picard": "Robbie Picard"
+        }
+    },
+    {
+        "doc_id": 476,
+        "items": {
+            "MacKenzie": "John MacKenzie",
+            "Tory": "John Tory"
+        }
+    },
+    {
+        "doc_id": 477,
+        "items": {
+            "Horgan": "John Horgan",
+            "Trudeau": "Justin Trudeau",
+            "Chantal": "Chantal Hébert",
+            "Andrew": "Andrew Coyne"
+        }
+    },
+    {
+        "doc_id": 478,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Kenney": "Jason Kenney",
+            "Rempel": "Michelle Rempel",
+            "Picard": "Robbie Picard"
+        }
+    },
+    {
+        "doc_id": 479,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Kenney": "Jason Kenney",
+            "Rempel": "Michelle Rempel",
+            "Picard": "Robbie Picard"
+        }
+    },
+    {
+        "doc_id": 480,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Kenney": "Jason Kenney",
+            "Rempel": "Michelle Rempel",
+            "Picard": "Robbie Picard"
+        }
+    },
+    {
+        "doc_id": 481,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Kenney": "Jason Kenney",
+            "Rempel": "Michelle Rempel",
+            "Picard": "Robbie Picard"
+        }
+    },
+    {
+        "doc_id": 482,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Kenney": "Jason Kenney",
+            "Rempel": "Michelle Rempel",
+            "Picard": "Robbie Picard"
+        }
+    },
+    {
+        "doc_id": 483,
+        "items": {
+            "Sharman": "Duane Sharman",
+            "Koch": "Rosie Koch",
+            "Rosie": "Rosie Koch",
+            "Gockel": "Roland Gockel",
+            "Roland": "Roland Gockel",
+            "Hutchings": "Stan Hutchings",
+            "Stan": "Stan Hutchings"
+        }
+    },
+    {
+        "doc_id": 484,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Kenney": "Jason Kenney",
+            "Rempel": "Michelle Rempel",
+            "Picard": "Robbie Picard"
+        }
+    },
+    {
+        "doc_id": 485,
+        "items": {}
+    },
+    {
+        "doc_id": 486,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Trump": "Donald Trump",
+            "Maduro": "Nicolas Maduro"
+        }
+    },
+    {
+        "doc_id": 487,
+        "items": {}
+    },
+    {
+        "doc_id": 488,
+        "items": {}
+    },
+    {
+        "doc_id": 489,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Horgan": "John Horgan",
+            "Notley": "Rachel Notley",
+            "Trump": "Donald Trump",
+            "Maduro": "Nicolas Maduro"
+        }
+    },
+    {
+        "doc_id": 490,
+        "items": {
+            "Gore": "Al Gore"
+        }
+    },
+    {
+        "doc_id": 491,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Trump": "Donald Trump",
+            "Maduro": "Nicolas Maduro"
+        }
+    },
+    {
+        "doc_id": 492,
+        "items": {
+            "Watson": "Robert Watson"
+        }
+    },
+    {
+        "doc_id": 493,
+        "items": {
+            "Peltier": "Autumn Peltier",
+            "Richardson": "Sharon Naomi Richardson",
+            "Preston": "Lorne Preston"
+        }
+    },
+    {
+        "doc_id": 494,
+        "items": {}
+    },
+    {
+        "doc_id": 495,
+        "items": {
+            "Sosik": "Heidi Sosik"
+        }
+    },
+    {
+        "doc_id": 496,
+        "items": {}
+    },
+    {
+        "doc_id": 497,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Trump": "Donald Trump",
+            "Maduro": "Nicolas Maduro"
+        }
+    },
+    {
+        "doc_id": 498,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Horgan": "John Horgan",
+            "Notley": "Rachel Notley"
+        }
+    },
+    {
+        "doc_id": 499,
+        "items": {}
+    },
+    {
+        "doc_id": 500,
+        "items": {}
+    },
+    {
+        "doc_id": 501,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Horgan": "John Horgan"
+        }
+    },
+    {
+        "doc_id": 502,
+        "items": {}
+    },
+    {
+        "doc_id": 503,
+        "items": {}
+    },
+    {
+        "doc_id": 504,
+        "items": {
+            "Watson": "Robert Watson"
+        }
+    },
+    {
+        "doc_id": 505,
+        "items": {
+            "May": "Elizabeth May"
+        }
+    },
+    {
+        "doc_id": 506,
+        "items": {
+            "Duncan": "Dustin Duncan",
+            "Forbes": "David Forbes"
+        }
+    },
+    {
+        "doc_id": 507,
+        "items": {
+            "Mauro": "Ian Mauro"
+        }
+    },
+    {
+        "doc_id": 508,
+        "items": {
+            "Kemble": "Samuel Kemble",
+            "Chantler": "David Chantler",
+            "Rosa": "Carrie Rosa"
+        }
+    },
+    {
+        "doc_id": 509,
+        "items": {
+            "Duncan": "Dustin Duncan",
+            "Forbes": "David Forbes"
+        }
+    },
+    {
+        "doc_id": 510,
+        "items": {
+            "Chorney": "Noelle Chorney"
+        }
+    },
+    {
+        "doc_id": 511,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Horgan": "John Horgan",
+            "D'Avignon": "Greg D'Avignon",
+            "Braun": "Henry Braun",
+            "Wilkinson": "Andrew Wilkinson"
+        }
+    },
+    {
+        "doc_id": 512,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Horgan": "John Horgan",
+            "D'Avignon": "Greg D'Avignon",
+            "Braun": "Henry Braun",
+            "Wilkinson": "Andrew Wilkinson"
+        }
+    },
+    {
+        "doc_id": 513,
+        "items": {
+            "Rahmstorf": "Stefan Rahmstorf",
+            "Caesar": "Levke Caesar"
+        }
+    },
+    {
+        "doc_id": 514,
+        "items": {
+            "Bill": "Bill Cosby",
+            "Cosby": "Bill Cosby",
+            "Constand": "Andrea Constand",
+            "McArthur": "Bruce - McArthur"
+        }
+    },
+    {
+        "doc_id": 515,
+        "items": {}
+    },
+    {
+        "doc_id": 516,
+        "items": {
+            "John": "John Horgan"
+        }
+    },
+    {
+        "doc_id": 517,
+        "items": {
+            "Hebert": "Dave Hebert"
+        }
+    },
+    {
+        "doc_id": 518,
+        "items": {
+            "Arab": "Patricia Arab",
+            "Dave": "Dave Hebert"
+        }
+    },
+    {
+        "doc_id": 519,
+        "items": {
+            "Carr": "Jim Carr",
+            "Trudeau": "Justin Trudeau",
+            "Notley": "Rachel Notley",
+            "Sears": "Robin Sears",
+            "Harrison": "Kathryn Harrison"
+        }
+    },
+    {
+        "doc_id": 520,
+        "items": {
+            "Ulrich": "Kendra Ulrich"
+        }
+    },
+    {
+        "doc_id": 521,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Horgan": "John Horgan",
+            "Kelly McParland": "Kelly McParlandis"
+        }
+    },
+    {
+        "doc_id": 522,
+        "items": {
+            "Peter Shawn": "Peter Shawn Taylor"
+        }
+    },
+    {
+        "doc_id": 523,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Horgan": "John Horgan"
+        }
+    },
+    {
+        "doc_id": 524,
+        "items": {
+            "Eric": "Eric Bjornson",
+            "Bjornson": "Eric Bjornson",
+            "Duggan": "Bruce Duggan"
+        }
+    },
+    {
+        "doc_id": 525,
+        "items": {
+            "Assad": "Bashar al - Assad",
+            "Legal": "Jules Legal",
+            "Pallister": "Brian Pallister"
+        }
+    },
+    {
+        "doc_id": 526,
+        "items": {
+            "Ford": "Doug Ford",
+            "Matthews": "Deb Matthews",
+            "Trump": "Donald Trump",
+            "Brown": "Patrick Brown",
+            "Wynne": "Kathleen Wynne"
+        }
+    },
+    {
+        "doc_id": 527,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Notley": "Rachel Notley",
+            "Horgan": "John Horgan",
+            "Davidson": "Jim Davidson",
+            "Kvisle": "Hal Kvisle",
+            "Dosanjh": "Ujjal Dosanjh",
+            "Morton": "Ted Morton",
+            "McKenna": "Catherine McKenna",
+            "Crey": "Ernie Crey"
+        }
+    },
+    {
+        "doc_id": 528,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 529,
+        "items": {
+            "Kamookak": "Louie Kamookak",
+            "Louie": "Louie Kamookak",
+            "Franklin": "Sir John Franklin",
+            "John Franklin": "Sir John Franklin",
+            "Potter": "Russell Potter",
+            "McGoogan": "Ken McGoogan"
+        }
+    },
+    {
+        "doc_id": 530,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 531,
+        "items": {
+            "Hebert": "Dave Hebert"
+        }
+    },
+    {
+        "doc_id": 532,
+        "items": {
+            "Etienne": "James Etienne"
+        }
+    },
+    {
+        "doc_id": 533,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Harper": "Tim Harper",
+            "Walkom": "Thomas Walkom"
+        }
+    },
+    {
+        "doc_id": 534,
+        "items": {
+            "Coates": "David Coates",
+            "Woods": "Alex Woods"
+        }
+    },
+    {
+        "doc_id": 535,
+        "items": {}
+    },
+    {
+        "doc_id": 536,
+        "items": {}
+    },
+    {
+        "doc_id": 537,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Horgan": "John Horgan",
+            "Black": "Doug Black",
+            "Heyman": "George Heyman"
+        }
+    },
+    {
+        "doc_id": 538,
+        "items": {
+            "Svoboda": "Carl Svoboda"
+        }
+    },
+    {
+        "doc_id": 539,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Horgan": "John Horgan",
+            "Black": "Doug Black",
+            "Heyman": "George Heyman"
+        }
+    },
+    {
+        "doc_id": 540,
+        "items": {}
+    },
+    {
+        "doc_id": 541,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Horgan": "John Horgan",
+            "Black": "Doug Black",
+            "Heyman": "George Heyman"
+        }
+    },
+    {
+        "doc_id": 542,
+        "items": {
+            "Eby": "David Eby",
+            "Farnworth": "Mike Farnworth",
+            "Heyman": "George Heyman"
+        }
+    },
+    {
+        "doc_id": 543,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Horgan": "John Horgan",
+            "Black": "Doug Black",
+            "Heyman": "George Heyman"
+        }
+    },
+    {
+        "doc_id": 544,
+        "items": {
+            "Cameron": "Max Cameron",
+            "Trudeau": "Justin Trudeau",
+            "Horgan": "John Horgan",
+            "Moscrop": "David Moscrop",
+            "Eby": "David Eby"
+        }
+    },
+    {
+        "doc_id": 545,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Harper": "Stephen Harper",
+            "Singh": "Jagmeet Singh"
+        }
+    },
+    {
+        "doc_id": 546,
+        "items": {}
+    },
+    {
+        "doc_id": 547,
+        "items": {
+            "Putin": "Vladimir Putin",
+            "Trudeau": "Justin Trudeau",
+            "Trump": "Donald Trump",
+            "Pence": "Mike Pence",
+            "Bill": "Bill Cosby",
+            "Cosby": "Bill Cosby",
+            "Constand": "Andrea Constand",
+            "McNeil": "Stephen McNeil",
+            "Arab": "Patricia Arab"
+        }
+    },
+    {
+        "doc_id": 548,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Morneau": "Bill Morneau"
+        }
+    },
+    {
+        "doc_id": 549,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 550,
+        "items": {}
+    },
+    {
+        "doc_id": 551,
+        "items": {
+            "Horgan": "John Horgan"
+        }
+    },
+    {
+        "doc_id": 552,
+        "items": {
+            "Ross": "June Ross",
+            "Fleming": "Rob Fleming"
+        }
+    },
+    {
+        "doc_id": 553,
+        "items": {}
+    },
+    {
+        "doc_id": 554,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Trump": "Donald Trump",
+            "Rogers": "Zachary Rogers",
+            "Bloomer": "Chris Bloomer"
+        }
+    },
+    {
+        "doc_id": 555,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Horgan": "John Horgan",
+            "Notley": "Rachel Notley",
+            "Morneau": "Bill Morneau",
+            "Scheer": "Andrew Scheer",
+            "Kenney": "Jason Kenney"
+        }
+    },
+    {
+        "doc_id": 556,
+        "items": {
+            "Watson": "Robert Watson",
+            "David": "David Suzuki"
+        }
+    },
+    {
+        "doc_id": 557,
+        "items": {}
+    },
+    {
+        "doc_id": 558,
+        "items": {
+            "Swanson": "Lee Swanson"
+        }
+    },
+    {
+        "doc_id": 559,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Horgan": "John Horgan"
+        }
+    },
+    {
+        "doc_id": 560,
+        "items": {}
+    },
+    {
+        "doc_id": 561,
+        "items": {
+            "Melanson": "Arthur Melanson",
+            "Rousselle": "Serge Rousselle",
+            "Peltier": "Autumn Peltier",
+            "Doiron": "Anthony Doiron"
+        }
+    },
+    {
+        "doc_id": 562,
+        "items": {
+            "Swanson": "Lee Swanson"
+        }
+    },
+    {
+        "doc_id": 563,
+        "items": {
+            "Hansen": "James Hansen"
+        }
+    },
+    {
+        "doc_id": 564,
+        "items": {
+            "Affleck": "Kenneth Affleck",
+            "Langer": "Valerie Langer"
+        }
+    },
+    {
+        "doc_id": 565,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Horgan": "John Horgan"
+        }
+    },
+    {
+        "doc_id": 566,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Horgan": "John Horgan",
+            "Notley": "Rachel Notley"
+        }
+    },
+    {
+        "doc_id": 567,
+        "items": {}
+    },
+    {
+        "doc_id": 568,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 569,
+        "items": {
+            "Carney": "Mark Carney"
+        }
+    },
+    {
+        "doc_id": 570,
+        "items": {
+            "Stevens": "Gail Stevens"
+        }
+    },
+    {
+        "doc_id": 571,
+        "items": {}
+    },
+    {
+        "doc_id": 572,
+        "items": {
+            "Carney": "Mark Carney"
+        }
+    },
+    {
+        "doc_id": 573,
+        "items": {}
+    },
+    {
+        "doc_id": 574,
+        "items": {}
+    },
+    {
+        "doc_id": 575,
+        "items": {}
+    },
+    {
+        "doc_id": 576,
+        "items": {
+            "Horgan": "John Horgan",
+            "Notley": "Rachel Notley",
+            "Trudeau": "Justin Trudeau",
+            "Moscrop": "David Moscrop",
+            "Harrison": "Kathryn Harrison"
+        }
+    },
+    {
+        "doc_id": 577,
+        "items": {
+            "Carney": "Mark Carney"
+        }
+    },
+    {
+        "doc_id": 578,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Macron": "Emmanuel Macron",
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 579,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Horgan": "John Horgan",
+            "Notley": "Rachel Notley",
+            "Morneau": "Bill Morneau",
+            "Scheer": "Andrew Scheer",
+            "Kenney": "Jason Kenney",
+            "Macron": "Emmanuel Macron"
+        }
+    },
+    {
+        "doc_id": 580,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Bains": "Navdeep Bains",
+            "Notley": "Rachel Notley"
+        }
+    },
+    {
+        "doc_id": 581,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Brandes": "Jason Brandes",
+            "Toney": "Rick Toney"
+        }
+    },
+    {
+        "doc_id": 582,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Comey": "James Comey",
+            "Trump": "Donald Trump",
+            "Cosby": "Bill Cosby",
+            "Constand": "Andrea Constand",
+            "Poulin": "Marc Poulin",
+            "Semenec": "Jennifer Semenec"
+        }
+    },
+    {
+        "doc_id": 583,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 584,
+        "items": {}
+    },
+    {
+        "doc_id": 585,
+        "items": {
+            "Brown": "Jerry Brown"
+        }
+    },
+    {
+        "doc_id": 586,
+        "items": {
+            "Mother": "Mother Nature",
+            "Kharouba": "Heather Kharouba"
+        }
+    },
+    {
+        "doc_id": 587,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Macron": "Emmanuel Macron"
+        }
+    },
+    {
+        "doc_id": 588,
+        "items": {
+            "Kharouba": "Heather Kharouba"
+        }
+    },
+    {
+        "doc_id": 589,
+        "items": {}
+    },
+    {
+        "doc_id": 590,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Macron": "Emmanuel Macron",
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 591,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Stanley": "Gerald Stanley",
+            "McArthur": "Bruce - McArthur",
+            "Kanagaratnam": "Kirushna Kumar Kanagaratnam"
+        }
+    },
+    {
+        "doc_id": 592,
+        "items": {
+            "Idsinga": "Hank Idsinga",
+            "Kharouba": "Heather Kharouba",
+            "Trump": "Donald Trump",
+            "Hannity": "Sean Hannity",
+            "Cohen": "Michael Cohen"
+        }
+    },
+    {
+        "doc_id": 593,
+        "items": {
+            "Brown": "Jerry Brown",
+            "Wynne": "Kathleen Wynne"
+        }
+    },
+    {
+        "doc_id": 594,
+        "items": {}
+    },
+    {
+        "doc_id": 595,
+        "items": {
+            "Stewart": "P Kennedy Stewart",
+            "Kennedy Stewart": "P Kennedy Stewart",
+            "Kharouba": "Heather Kharouba"
+        }
+    },
+    {
+        "doc_id": 596,
+        "items": {}
+    },
+    {
+        "doc_id": 597,
+        "items": {}
+    },
+    {
+        "doc_id": 598,
+        "items": {}
+    },
+    {
+        "doc_id": 599,
+        "items": {
+            "de": "Trudeau"
+        }
+    },
+    {
+        "doc_id": 600,
+        "items": {
+            "Mayes": "Brian Mayes"
+        }
+    },
+    {
+        "doc_id": 601,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Horgan": "John Horgan"
+        }
+    },
+    {
+        "doc_id": 602,
+        "items": {}
+    },
+    {
+        "doc_id": 603,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Macron": "Emmanuel Macron"
+        }
+    },
+    {
+        "doc_id": 604,
+        "items": {}
+    },
+    {
+        "doc_id": 605,
+        "items": {}
+    },
+    {
+        "doc_id": 606,
+        "items": {}
+    },
+    {
+        "doc_id": 607,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Notley": "Rachel Notley",
+            "Horgan": "John Horgan",
+            "Lougheed": "Peter Lougheed"
+        }
+    },
+    {
+        "doc_id": 608,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Horgan": "John Horgan"
+        }
+    },
+    {
+        "doc_id": 609,
+        "items": {
+            "Boos": "Mike Boos",
+            "Cicuttin": "John Cicuttin"
+        }
+    },
+    {
+        "doc_id": 610,
+        "items": {
+            "Brown": "Jerry Brown",
+            "Wynne": "Kathleen Wynne",
+            "Jefferies": "Simon Jefferies"
+        }
+    },
+    {
+        "doc_id": 611,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Glen": "Glen McGregor"
+        }
+    },
+    {
+        "doc_id": 612,
+        "items": {}
+    },
+    {
+        "doc_id": 613,
+        "items": {}
+    },
+    {
+        "doc_id": 614,
+        "items": {
+            "Hounsell": "Ali Hounsell",
+            "McCartney": "Peter McCartney",
+            "Horgan": "John Horgan",
+            "Trudeau": "Justin Trudeau",
+            "Notley": "Rachel Notley",
+            "Kallio": "Ed Kallio"
+        }
+    },
+    {
+        "doc_id": 615,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 616,
+        "items": {}
+    },
+    {
+        "doc_id": 617,
+        "items": {
+            "Kharouba": "Heather Kharouba"
+        }
+    },
+    {
+        "doc_id": 618,
+        "items": {}
+    },
+    {
+        "doc_id": 619,
+        "items": {
+            "Nye": "Bill Nye",
+            "Sagan": "Carl Sagan",
+            "Bastardi": "Joe Bastardi"
+        }
+    },
+    {
+        "doc_id": 620,
+        "items": {
+            "Ford": "Doug Ford",
+            "Wynne": "Kathleen Wynne"
+        }
+    },
+    {
+        "doc_id": 621,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 622,
+        "items": {}
+    },
+    {
+        "doc_id": 623,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 624,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 625,
+        "items": {
+            "Hounsell": "Ali Hounsell",
+            "McCartney": "Peter McCartney",
+            "Horgan": "John Horgan",
+            "Trudeau": "Justin Trudeau",
+            "Notley": "Rachel Notley",
+            "Kallio": "Ed Kallio"
+        }
+    },
+    {
+        "doc_id": 626,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 627,
+        "items": {
+            "Kharouba": "Heather Kharouba"
+        }
+    },
+    {
+        "doc_id": 628,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 629,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Notley": "Rachel Notley"
+        }
+    },
+    {
+        "doc_id": 630,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Trump": "Donald Trump",
+            "Abe": "Shinzo Abe",
+            "Bissonnette": "Alexandre Bissonnette",
+            "DuChene": "Krista DuChene"
+        }
+    },
+    {
+        "doc_id": 631,
+        "items": {
+            "Tim": "Tim May"
+        }
+    },
+    {
+        "doc_id": 632,
+        "items": {}
+    },
+    {
+        "doc_id": 633,
+        "items": {
+            "Cosby": "Bill Cosby",
+            "Constand": "Andrea Constand",
+            "Therrien": "Daniel Therrien",
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 634,
+        "items": {}
+    },
+    {
+        "doc_id": 635,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Le Pen": "Marine Le Pen",
+            "Obono": "Daniele Obono"
+        }
+    },
+    {
+        "doc_id": 636,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Moe": "Scott Moe",
+            "McArthur": "Bruce - McArthur",
+            "Bissonnette": "Alexandre Bissonnette",
+            "Weinstein": "Harvey Weinstein",
+            "Rob": "Rob Lowe",
+            "Lowe": "Rob Lowe",
+            "Maurice": "Maurice ( Mom ) Boucher",
+            "Boucher": "Mom ) Boucher",
+            "Mom ) Boucher": "Maurice ( Mom ) Boucher",
+            "Abdelrazik": "Abousfian Abdelrazik",
+            "Trump": "Donald Trump",
+            "Greitens": "Eric Greitens",
+            "Castro": "Raul Castro",
+            "Raul": "Raul Castro"
+        }
+    },
+    {
+        "doc_id": 637,
+        "items": {
+            "Shamji": "Mohammed Shamji"
+        }
+    },
+    {
+        "doc_id": 638,
+        "items": {}
+    },
+    {
+        "doc_id": 639,
+        "items": {
+            "Coderre": "Denis Coderre"
+        }
+    },
+    {
+        "doc_id": 640,
+        "items": {
+            "Coderre": "Denis Coderre"
+        }
+    },
+    {
+        "doc_id": 641,
+        "items": {}
+    },
+    {
+        "doc_id": 642,
+        "items": {
+            "Coderre": "Denis Coderre"
+        }
+    },
+    {
+        "doc_id": 643,
+        "items": {
+            "Hounsell": "Ali Hounsell",
+            "McCartney": "Peter McCartney",
+            "Horgan": "John Horgan",
+            "Trudeau": "Justin Trudeau",
+            "Notley": "Rachel Notley",
+            "Kallio": "Ed Kallio"
+        }
+    },
+    {
+        "doc_id": 644,
+        "items": {
+            "Artuso": "Christian Artuso"
+        }
+    },
+    {
+        "doc_id": 645,
+        "items": {
+            "Foligno": "Marcus Foligno"
+        }
+    },
+    {
+        "doc_id": 646,
+        "items": {
+            "Adam": "Sarah Adam",
+            "Whalen": "Dustin Whalen",
+            "Nasogaluak": "Darrel Nasogaluak",
+            "Smith": "Duane Ningaqsiq Smith"
+        }
+    },
+    {
+        "doc_id": 647,
+        "items": {
+            "Couillard": "Philippe Couillard"
+        }
+    },
+    {
+        "doc_id": 648,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Le Pen": "Marine Le Pen",
+            "Obono": "Daniele Obono"
+        }
+    },
+    {
+        "doc_id": 649,
+        "items": {
+            "Hebblewhite": "Mark Hebblewhite",
+            "Humphreys": "Adrian Humphreys"
+        }
+    },
+    {
+        "doc_id": 650,
+        "items": {
+            "Suzuki": "David Suzuki"
+        }
+    },
+    {
+        "doc_id": 651,
+        "items": {
+            "Hebblewhite": "Mark Hebblewhite",
+            "Humphreys": "Adrian Humphreys"
+        }
+    },
+    {
+        "doc_id": 652,
+        "items": {
+            "Hebblewhite": "Mark Hebblewhite",
+            "Humphreys": "Adrian Humphreys"
+        }
+    },
+    {
+        "doc_id": 653,
+        "items": {
+            "Hebblewhite": "Mark Hebblewhite",
+            "Humphreys": "Adrian Humphreys"
+        }
+    },
+    {
+        "doc_id": 654,
+        "items": {
+            "Hebblewhite": "Mark Hebblewhite"
+        }
+    },
+    {
+        "doc_id": 655,
+        "items": {
+            "Hebblewhite": "Mark Hebblewhite"
+        }
+    },
+    {
+        "doc_id": 656,
+        "items": {
+            "Hebblewhite": "Mark Hebblewhite",
+            "Humphreys": "Adrian Humphreys"
+        }
+    },
+    {
+        "doc_id": 657,
+        "items": {
+            "Hebblewhite": "Mark Hebblewhite",
+            "Humphreys": "Adrian Humphreys"
+        }
+    },
+    {
+        "doc_id": 658,
+        "items": {
+            "Hebblewhite": "Mark Hebblewhite",
+            "Humphreys": "Adrian Humphreys"
+        }
+    },
+    {
+        "doc_id": 659,
+        "items": {}
+    },
+    {
+        "doc_id": 660,
+        "items": {}
+    },
+    {
+        "doc_id": 661,
+        "items": {
+            "K": "Philip Kolotzhach",
+            "Vernon": "Joel Wells Vernon",
+            "Stalin": "Joseph Stalin",
+            "Pettibone": "Brittany Pettibone",
+            "Robinson": "Tommy Robinson",
+            "Southern": "Lauren Southern",
+            "Sellner": "Martin Sellner"
+        }
+    },
+    {
+        "doc_id": 662,
+        "items": {
+            "Roberge": "Daniel Roberge"
+        }
+    },
+    {
+        "doc_id": 663,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Venditti": "Pat Venditti",
+            "May": "Theresa May",
+            "Horgan": "John Horgan",
+            "Macron": "Emmanuel Macron"
+        }
+    },
+    {
+        "doc_id": 664,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Horgan": "John Horgan"
+        }
+    },
+    {
+        "doc_id": 665,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Marshall": "Dale Marshall",
+            "Abreu": "Catherine Abreu"
+        }
+    },
+    {
+        "doc_id": 666,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "May": "Theresa May",
+            "Venditti": "Pat Venditti",
+            "Macron": "Emmanuel Macron"
+        }
+    },
+    {
+        "doc_id": 667,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Shamji": "Mohammed Shamji"
+        }
+    },
+    {
+        "doc_id": 668,
+        "items": {
+            "Carr": "Jim Carr",
+            "Janyk": "Beatrice Janyk"
+        }
+    },
+    {
+        "doc_id": 669,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Bill": "Bill Cosby",
+            "Cosby": "Bill Cosby",
+            "Boushie": "Colten Boushie",
+            "Francis": "Pope Francis"
+        }
+    },
+    {
+        "doc_id": 670,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Marshall": "Dale Marshall",
+            "Abreu": "Catherine Abreu"
+        }
+    },
+    {
+        "doc_id": 671,
+        "items": {
+            "Roberge": "Daniel Roberge"
+        }
+    },
+    {
+        "doc_id": 672,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 673,
+        "items": {
+            "Brons": "Dayna Brons",
+            "Prokopchuk": "Brenden Prokopchuk",
+            "Lukan": "Conner Lukan",
+            "Bernier": "Maxime Bernier",
+            "Janyk": "Beatrice Janyk",
+            "Trudeau": "Justin Trudeau",
+            "MacKinnon": "Bruce MacKinnon",
+            "Pompeo": "Mike Pompeo",
+            "Trump": "Donald Trump",
+            "Harry": "Prince Harry",
+            "Prince": "Prince Harry",
+            "Markle": "Meghan Markle",
+            "Bissonnette": "Alexandre Bissonnette",
+            "Bautista": "Jose Bautista",
+            "U": "Sheryl Ubelacker",
+            "Henderson": "Brooke Henderson",
+            "Wynne": "Kathleen Wynne",
+            "Ford": "Doug Ford",
+            "Sainte": "Buffy Sainte - Marie",
+            "Marie": "Buffy Sainte - Marie",
+            "Shamji": "Mohammed Shamji",
+            "Pope": "Olivia Pope"
+        }
+    },
+    {
+        "doc_id": 674,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "May": "Theresa May",
+            "Venditti": "Pat Venditti"
+        }
+    },
+    {
+        "doc_id": 675,
+        "items": {
+            "Carr": "Jim Carr",
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 676,
+        "items": {
+            "Pat": "Pat Venditti",
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 677,
+        "items": {
+            "Cicek": "Nazim Cicek"
+        }
+    },
+    {
+        "doc_id": 678,
+        "items": {
+            "Roberge": "Daniel Roberge"
+        }
+    },
+    {
+        "doc_id": 679,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Horgan": "John Horgan"
+        }
+    },
+    {
+        "doc_id": 680,
+        "items": {
+            "Linwood": "Cam Linwood",
+            "Bailey": "John Bailey",
+            "Armstrong": "Les Armstrong",
+            "Feltmate": "Blair Feltmate"
+        }
+    },
+    {
+        "doc_id": 681,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Harper": "Stephen Harper"
+        }
+    },
+    {
+        "doc_id": 682,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Obama": "Barack Obama",
+            "Jackson Doughart": "Jackson Doughartis"
+        }
+    },
+    {
+        "doc_id": 683,
+        "items": {
+            "Artuso": "Christian Artuso"
+        }
+    },
+    {
+        "doc_id": 684,
+        "items": {
+            "Phinney": "Mark Phinney",
+            "Peck": "Ross Peck"
+        }
+    },
+    {
+        "doc_id": 685,
+        "items": {
+            "Suzuki": "David Suzuki",
+            "Leach": "Andrew Leach",
+            "Pigou": "Arthur Pigou"
+        }
+    },
+    {
+        "doc_id": 686,
+        "items": {
+            "Suzuki": "David Suzuki",
+            "Leach": "Andrew Leach",
+            "Pigou": "Arthur Pigou"
+        }
+    },
+    {
+        "doc_id": 687,
+        "items": {}
+    },
+    {
+        "doc_id": 688,
+        "items": {
+            "Alexandria": "Alexandria Alikakos",
+            "Gabriela": "Gabriela Babineau",
+            "Caitlin": "Caitlin Graham"
+        }
+    },
+    {
+        "doc_id": 689,
+        "items": {
+            "Andrew": "Andrew Coyne",
+            "Chantal": "Chantal Hébert",
+            "Chris": "Chris Hall",
+            "B": "HÉBERT"
+        }
+    },
+    {
+        "doc_id": 690,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "May": "Theresa May"
+        }
+    },
+    {
+        "doc_id": 691,
+        "items": {
+            "Heyman": "George Heyman",
+            "Horgan": "John Horgan"
+        }
+    },
+    {
+        "doc_id": 692,
+        "items": {}
+    },
+    {
+        "doc_id": 693,
+        "items": {
+            "Suzuki": "David Suzuki",
+            "Leach": "Andrew Leach",
+            "Pigou": "Arthur Pigou"
+        }
+    },
+    {
+        "doc_id": 694,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "May": "Theresa May",
+            "Venditti": "Pat Venditti",
+            "Macron": "Emmanuel Macron"
+        }
+    },
+    {
+        "doc_id": 695,
+        "items": {}
+    },
+    {
+        "doc_id": 696,
+        "items": {
+            "Lawrance": "Rob Lawrance",
+            "Machado": "Emanuel Machado"
+        }
+    },
+    {
+        "doc_id": 697,
+        "items": {
+            "Brown": "Chris Brown",
+            "Henoch": "Basia Henoch"
+        }
+    },
+    {
+        "doc_id": 698,
+        "items": {
+            "Obradovich": "Shannon Obradovich"
+        }
+    },
+    {
+        "doc_id": 699,
+        "items": {
+            "Silver": "Sandy Silver",
+            "Kent": "Scott Kent"
+        }
+    },
+    {
+        "doc_id": 700,
+        "items": {
+            "Suzuki": "David Suzuki",
+            "Leach": "Andrew Leach",
+            "Cornish": "Steve Cornish"
+        }
+    },
+    {
+        "doc_id": 701,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Klein": "Gabriel Klein",
+            "Suzuki": "David Suzuki",
+            "Ramos": "Mario Ramos",
+            "Duckworth": "Tammy Duckworth"
+        }
+    },
+    {
+        "doc_id": 702,
+        "items": {}
+    },
+    {
+        "doc_id": 703,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Obama": "Barack Obama"
+        }
+    },
+    {
+        "doc_id": 704,
+        "items": {
+            "Hambrook": "Mark Hambrook",
+            "Fowler": "Billie Joe Fowler",
+            "Collins": "Harry Collins"
+        }
+    },
+    {
+        "doc_id": 705,
+        "items": {}
+    },
+    {
+        "doc_id": 706,
+        "items": {
+            "McKenna": "Catherine McKenna",
+            "Bloomberg": "Michael Bloomberg",
+            "Chisholm": "Andy Chisholm"
+        }
+    },
+    {
+        "doc_id": 707,
+        "items": {
+            "McLaughlin": "Kathleen McLaughlin",
+            "Schuurman Hess": "Aart Schuurman Hess"
+        }
+    },
+    {
+        "doc_id": 708,
+        "items": {}
+    },
+    {
+        "doc_id": 709,
+        "items": {
+            "Hildebrand": "Lliam Hildebrand",
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 710,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 711,
+        "items": {
+            "Olive": "David Olive"
+        }
+    },
+    {
+        "doc_id": 712,
+        "items": {
+            "Wudrick": "Aaron Wudrick",
+            "Ford": "Doug Ford",
+            "Carl": "Carl Ambridge",
+            "Ghannouchi": "Rachid Ghannouchi"
+        }
+    },
+    {
+        "doc_id": 713,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 714,
+        "items": {
+            "Burcher": "Robert Burcher",
+            "Muir": "John Muir",
+            "Galbraith": "David Galbraith"
+        }
+    },
+    {
+        "doc_id": 715,
+        "items": {
+            "David": "David Cochrane"
+        }
+    },
+    {
+        "doc_id": 716,
+        "items": {}
+    },
+    {
+        "doc_id": 717,
+        "items": {
+            "Lovelock": "James Lovelock"
+        }
+    },
+    {
+        "doc_id": 718,
+        "items": {
+            "Bloomer": "Chris Bloomer",
+            "McMillan": "Tim McMillan",
+            "Douglas": "Steve Douglas",
+            "Maltais": "Ghislain Maltais"
+        }
+    },
+    {
+        "doc_id": 719,
+        "items": {
+            "Bloomer": "Chris Bloomer",
+            "McMillan": "Tim McMillan",
+            "Douglas": "Steve Douglas",
+            "Maltais": "Ghislain Maltais"
+        }
+    },
+    {
+        "doc_id": 720,
+        "items": {
+            "Bloomer": "Chris Bloomer",
+            "McMillan": "Tim McMillan",
+            "Douglas": "Steve Douglas",
+            "Maltais": "Ghislain Maltais"
+        }
+    },
+    {
+        "doc_id": 721,
+        "items": {
+            "Bloomer": "Chris Bloomer",
+            "McMillan": "Tim McMillan",
+            "Douglas": "Steve Douglas",
+            "Maltais": "Ghislain Maltais"
+        }
+    },
+    {
+        "doc_id": 722,
+        "items": {
+            "Saher": "Merwan Saher"
+        }
+    },
+    {
+        "doc_id": 723,
+        "items": {}
+    },
+    {
+        "doc_id": 724,
+        "items": {
+            "Saher": "Merwan Saher"
+        }
+    },
+    {
+        "doc_id": 725,
+        "items": {
+            "Bloomer": "Chris Bloomer",
+            "McMillan": "Tim McMillan",
+            "Douglas": "Steve Douglas",
+            "Maltais": "Ghislain Maltais"
+        }
+    },
+    {
+        "doc_id": 726,
+        "items": {
+            "Bloomer": "Chris Bloomer",
+            "McMillan": "McMilland",
+            "Douglas": "Steve Douglas",
+            "Maltais": "Ghislain Maltais"
+        }
+    },
+    {
+        "doc_id": 727,
+        "items": {
+            "Bloomer": "Chris Bloomer",
+            "McMillan": "Tim McMillan",
+            "Douglas": "Steve Douglas",
+            "Maltais": "Ghislain Maltais"
+        }
+    },
+    {
+        "doc_id": 728,
+        "items": {}
+    },
+    {
+        "doc_id": 729,
+        "items": {}
+    },
+    {
+        "doc_id": 730,
+        "items": {}
+    },
+    {
+        "doc_id": 731,
+        "items": {
+            "Willson": "Clint Willson",
+            "Simoneaux": "Rudy Simoneaux"
+        }
+    },
+    {
+        "doc_id": 732,
+        "items": {}
+    },
+    {
+        "doc_id": 733,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Morneau": "Bill Morneau",
+            "Oliver": "John Oliver",
+            "Petitpas Taylor": "Ginette Petitpas Taylor",
+            "Wilson - Raybould": "Jody Wilson - Raybould",
+            "McKenna": "Catherine McKenna",
+            "Carr": "Jim Carr"
+        }
+    },
+    {
+        "doc_id": 734,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Horgan": "John Horgan",
+            "Chantal Hébert": "Chantal Hébertis"
+        }
+    },
+    {
+        "doc_id": 735,
+        "items": {
+            "Mauro": "Ian Mauro"
+        }
+    },
+    {
+        "doc_id": 736,
+        "items": {}
+    },
+    {
+        "doc_id": 737,
+        "items": {
+            "Westdal": "Kristin Westdal",
+            "Champagne": "Audrey Champagne"
+        }
+    },
+    {
+        "doc_id": 738,
+        "items": {
+            "Ted": "Ted Landrum",
+            "David": "David Yerex Williamson"
+        }
+    },
+    {
+        "doc_id": 739,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 740,
+        "items": {}
+    },
+    {
+        "doc_id": 741,
+        "items": {
+            "Horgan": "John Horgan"
+        }
+    },
+    {
+        "doc_id": 742,
+        "items": {
+            "David": "David Braide",
+            "David Braide": "Robbie David Braide",
+            "Braide": "David Braide",
+            "Joan": "Joan Farlinger",
+            "J": "Joan",
+            "Laura": "Laura Davida Braide",
+            "William": "Reginald William Braide",
+            "Janet": "Janet Harbron",
+            "Harbron": "Janet Harbron",
+            "Jan": "Janet Harbron",
+            "Rob": "Robbie David Braide",
+            "Marie": "Marie Saint - Amour",
+            "Martha": "Martha Janet Braide",
+            "Mary": "Mary Lea Kenly Bell",
+            "John": "John Hanna",
+            "Ian": "Ian Braide",
+            "Lauren": "Laurent Crevier",
+            "Jason": "Jason Kurth",
+            "Ken": "Kennedy McKee - Braide",
+            "Katie": "Katie Burchert",
+            "Mark": "Mark Teare",
+            "Emily": "Emily Austrums",
+            "Alex": "Alexandra Teare",
+            "Peter": "Peter Farlinger",
+            "Ann": "Penelope Ann Teare",
+            "Con": "Connie",
+            "Conacher": "Lionel Pretoria Conacher",
+            "Eva": "Evan Leuty",
+            "Susan": "Susan Davis",
+            "Donna": "Donna Taylor",
+            "Geoffrey": "Geoffrey Murphy",
+            "Geoff": "Geoffrey Murphy",
+            "Nan": "Nana",
+            "Mary Lea": "Mary Lea Kenly Bell",
+            "Robert": "Robert Douglas Kenly",
+            "Doug": "Robert Douglas Kenly",
+            "Caitlin": "Caitlin Beatty",
+            "Bob": "Robert \" Bob \" Cadman",
+            "\"": "Robert \" Bob \" Cadman",
+            "Kathy": "Kathy \" Silver",
+            "Rich": "Richard",
+            "Richard": "Thomas Richard Pezzack",
+            "Laurie": "Laurie Ross",
+            "Ross": "Laurie Ross",
+            "Sarah": "Sarah Sinclair",
+            "Bill": "Bill \" Silver",
+            "Neil": "Neil deGrasse Tyson",
+            "Ty": "Neil deGrasse Tyson",
+            "Paul": "Paul Davies",
+            "Michael": "Michael Harris",
+            "Scott": "Gilbert Scott",
+            "Diane": "Diane Henwood",
+            "Catherine": "Catherine Crigger",
+            "Hilda": "Hilda Dickson",
+            "Chris": "Christine Barnes",
+            "Ryan": "Ryan Barnes",
+            "Kevin": "Kevin Crigger",
+            "Lori": "Lori Parfenuik",
+            "Joanne": "Joanne Cronin",
+            "Gord": "Gordana Karan",
+            "Ali": "Ali Ezzeddin",
+            "Lois": "Lois Stayura",
+            "Stephanie": "Stephanie Tanton",
+            "Brenda": "Brenda Clarke",
+            "Syk": "Ingvar Syk",
+            "Daniel": "Daniel Harris",
+            "Harris": "Daniel Harris",
+            "Keith": "James Keith Johnson",
+            "Johnson": "James Keith Johnson",
+            "George": "George Milford",
+            "Louise": "Mary Louise Johnson",
+            "Marjorie": "Marjorie Woodhouse",
+            "Tom": "Tom Schneider",
+            "Elizabeth": "Elizabeth Austrums",
+            "Matthew": "Matthew Johnson",
+            "Nancy": "Nancy Plunkett",
+            "Marilyn": "Marilyn Plaumann",
+            "Russell": "Russell Allan Willoughby",
+            "Russ": "Russell",
+            "Margaret": "Margaret Hamilton",
+            "Sam": "Samantha",
+            "Andrea": "Andrea Flomen",
+            "Jonathan": "Jonathan BenMeir",
+            "Marc": "Marcel MacDonald",
+            "MacKay": "James Roy MacKay",
+            "Kay": "MacKay",
+            "Peggy": "Peggy ) Fitzgerald",
+            "Sandra": "Sandra Martin",
+            "Maryann": "Maryann McConnell",
+            "Xiaoli": "Xiaoli Wang",
+            "Stuart": "Stuart Wason",
+            "Jim": "Jimmy",
+            "Gordon": "Trish Gordon",
+            "Des": "Desmond",
+            "Ness": "Susan Ness Anderson",
+            "Judy": "Judy Ness",
+            "Anne": "Anne Green",
+            "Rory": "Rory Mutch",
+            "Mutch": "Rory Mutch",
+            "Donald": "Marcel MacDonald",
+            "Amelia": "Amelia MacDonald",
+            "Dinah": "Dinah Smithson",
+            "Little": "Joan Little",
+            "Eldred": "Eldred Frances Cook",
+            "Pezzack": "Marcella Pezzack",
+            "Thomas": "Thomas Richard Pezzack",
+            "Stanley": "Stanley Tingle",
+            "Jimmy": "Jimmy \" Tapp"
+        }
+    },
+    {
+        "doc_id": 743,
+        "items": {
+            "Mitchell": "Keith Mitchell"
+        }
+    },
+    {
+        "doc_id": 744,
+        "items": {
+            "Debbie": "Debbie Nightingale",
+            "Chris": "Chris Hegedus",
+            "McDonald": "Chris McDonald",
+            "Nader": "Ralph Nader",
+            "Neil": "Neil Tabatznik"
+        }
+    },
+    {
+        "doc_id": 745,
+        "items": {
+            "Horgan": "John Horgan"
+        }
+    },
+    {
+        "doc_id": 746,
+        "items": {}
+    },
+    {
+        "doc_id": 747,
+        "items": {
+            "VanderWindt": "Ed VanderWindt",
+            "Leendertse": "Ken Leendertse",
+            "Farr": "Jason Farr",
+            "Yokoyama": "Gary Yokoyama"
+        }
+    },
+    {
+        "doc_id": 748,
+        "items": {
+            "Conrad": "Adrian Conrad",
+            "Hutchinson": "Mark Hutchinson"
+        }
+    },
+    {
+        "doc_id": 749,
+        "items": {
+            "Farr": "Jason Farr"
+        }
+    },
+    {
+        "doc_id": 750,
+        "items": {}
+    },
+    {
+        "doc_id": 751,
+        "items": {
+            "Lois": "Lois MacDonald"
+        }
+    },
+    {
+        "doc_id": 752,
+        "items": {
+            "Howard": "Brian Clark Howard"
+        }
+    },
+    {
+        "doc_id": 753,
+        "items": {}
+    },
+    {
+        "doc_id": 754,
+        "items": {
+            "Weaver": "Andrew Weaver",
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 755,
+        "items": {
+            "Trump": "Donald Trump",
+            "Nixon": "Richard Nixon",
+            "Corbyn": "Jeremy Corbyn",
+            "Orban": "Viktor Orban"
+        }
+    },
+    {
+        "doc_id": 756,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Weaver": "Andrew Weaver"
+        }
+    },
+    {
+        "doc_id": 757,
+        "items": {}
+    },
+    {
+        "doc_id": 758,
+        "items": {}
+    },
+    {
+        "doc_id": 759,
+        "items": {
+            "Hudson": "John Hudson"
+        }
+    },
+    {
+        "doc_id": 760,
+        "items": {
+            "Chris": "Chris Hall",
+            "Andy": "Andy Fillmore",
+            "Karen": "Karen Ludwig",
+            "LUDWIG": "KAREN LUDWIG",
+            "ANDY": "ANDY FILLMORE",
+            "CHRIS": "CHRIS HALL"
+        }
+    },
+    {
+        "doc_id": 761,
+        "items": {
+            "David": "David Cochrane",
+            "COCHRANE": "DAVID COCHRANE",
+            "Trudeau": "Justin Trudeau",
+            "Carr": "Jim Carr"
+        }
+    },
+    {
+        "doc_id": 762,
+        "items": {}
+    },
+    {
+        "doc_id": 763,
+        "items": {
+            "Ford": "Doug Ford",
+            "Herle": "David Herle",
+            "Wynne": "Kathleen Wynne"
+        }
+    },
+    {
+        "doc_id": 764,
+        "items": {
+            "Garinger": "Kevin Garinger",
+            "Cross": "Mark Cross"
+        }
+    },
+    {
+        "doc_id": 765,
+        "items": {
+            "Harper": "Stephen Harper",
+            "Trudeau": "Justin Trudeau",
+            "Scheer": "Andrew Scheer",
+            "Axelrod": "David Axelrod"
+        }
+    },
+    {
+        "doc_id": 766,
+        "items": {
+            "Cody": "Jen Cody",
+            "Geggie": "Linda Geggie",
+            "Geggi": "Linda Geggie",
+            "Hanson": "George Hanson",
+            "Vesey": "Moe Vesey"
+        }
+    },
+    {
+        "doc_id": 767,
+        "items": {}
+    },
+    {
+        "doc_id": 768,
+        "items": {}
+    },
+    {
+        "doc_id": 769,
+        "items": {
+            "Haas": "Georg Friedrich Haas",
+            "Scott": "Scott Jones",
+            "Jones": "Scott Jones",
+            "Trump": "Donald Trump",
+            "Hemingway": "Mariel Hemingway"
+        }
+    },
+    {
+        "doc_id": 770,
+        "items": {}
+    },
+    {
+        "doc_id": 771,
+        "items": {}
+    },
+    {
+        "doc_id": 772,
+        "items": {
+            "Horgan": "John Horgan"
+        }
+    },
+    {
+        "doc_id": 773,
+        "items": {
+            "May": "Elizabeth May"
+        }
+    },
+    {
+        "doc_id": 774,
+        "items": {}
+    },
+    {
+        "doc_id": 775,
+        "items": {
+            "Voyageur": "Evelyn Voyageur",
+            "Blomer": "Yvonne Blomer",
+            "Corvin": "Corvin Miller",
+            "Guichon": "Judith Guichon"
+        }
+    },
+    {
+        "doc_id": 776,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Scheer": "Andrew Scheer",
+            "Trump": "Donald Trump",
+            "Davidson": "Keith Davidson",
+            "Barack": "Barack Obama",
+            "Bush": "Barbara - Bush",
+            "Doro": "Dorothy Bush Koch",
+            "Bill": "Bill Clinton"
+        }
+    },
+    {
+        "doc_id": 777,
+        "items": {
+            "Oppenheimer": "Robert Oppenheimer",
+            "Nixon": "Richard Nixon",
+            "Elian": "Elian Gonzalez",
+            "Hadfield": "Chris Hadfield",
+            "Moussaoui": "Zacarias Moussaoui",
+            "Jaser": "Raed Jaser",
+            "Esseghaier": "Chiheb Esseghaier"
+        }
+    },
+    {
+        "doc_id": 778,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Scheer": "Andrew Scheer",
+            "Kaden": "Kaden Young",
+            "Daniels": "Stormy Daniels",
+            "Davidson": "Keith Davidson"
+        }
+    },
+    {
+        "doc_id": 779,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Scheer": "Andrew Scheer",
+            "Cohen": "Michael Cohen"
+        }
+    },
+    {
+        "doc_id": 780,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Riess": "Lois Riess"
+        }
+    },
+    {
+        "doc_id": 781,
+        "items": {
+            "Poilievre": "Pierre Poilievre",
+            "McKenna": "Catherine McKenna"
+        }
+    },
+    {
+        "doc_id": 782,
+        "items": {}
+    },
+    {
+        "doc_id": 783,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Gallant": "Brian Gallant",
+            "Harper": "Stephen Harper"
+        }
+    },
+    {
+        "doc_id": 784,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Gallant": "Brian Gallant",
+            "Harper": "Stephen Harper"
+        }
+    },
+    {
+        "doc_id": 785,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Gallant": "Brian Gallant",
+            "Harper": "Stephen Harper"
+        }
+    },
+    {
+        "doc_id": 786,
+        "items": {
+            "Limoges": "Audrey Limoges",
+            "MaGee": "David MaGee"
+        }
+    },
+    {
+        "doc_id": 787,
+        "items": {
+            "Maduro": "Nicolás Maduro",
+            "Pence": "Mike Pence"
+        }
+    },
+    {
+        "doc_id": 788,
+        "items": {
+            "Bloomberg": "Michael Bloomberg"
+        }
+    },
+    {
+        "doc_id": 789,
+        "items": {
+            "Scheer": "Andrew Scheer",
+            "Harper": "Stephen Harper",
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 790,
+        "items": {}
+    },
+    {
+        "doc_id": 791,
+        "items": {
+            "Wynne": "Kathleen Wynne",
+            "Ford": "Doug Ford",
+            "Trump": "Donald Trump",
+            "Don": "Donald Trump",
+            "Kay": "Barry Kay"
+        }
+    },
+    {
+        "doc_id": 792,
+        "items": {}
+    },
+    {
+        "doc_id": 793,
+        "items": {
+            "Mayo": "Charles \" Stormy \" Mayo",
+            "Knowlton": "Amy Knowlton",
+            "Haviland": "John Haviland",
+            "Goodwin": "Lauren Goodwin"
+        }
+    },
+    {
+        "doc_id": 794,
+        "items": {}
+    },
+    {
+        "doc_id": 795,
+        "items": {}
+    },
+    {
+        "doc_id": 796,
+        "items": {}
+    },
+    {
+        "doc_id": 797,
+        "items": {
+            "McKenna": "Catherine McKenna",
+            "McNeil": "Stephen McNeil",
+            "Perry": "Anita Perry"
+        }
+    },
+    {
+        "doc_id": 798,
+        "items": {
+            "Phillips": "Doug Phillips"
+        }
+    },
+    {
+        "doc_id": 799,
+        "items": {
+            "Poilievre": "Pierre Poilievre",
+            "McKenna": "Catherine McKenna"
+        }
+    },
+    {
+        "doc_id": 800,
+        "items": {
+            "Kate": "Kate Middleton",
+            "Prince": "Prince Charles",
+            "William": "Prince William",
+            "Woodroffe": "Sebastian Woodroffe",
+            "Butcher": "Nicholas Butcher",
+            "Johnston": "Kristin Johnston",
+            "Bloomberg": "Michael Bloomberg",
+            "Trump": "Donald Trump",
+            "Twain": "Shania Twain"
+        }
+    },
+    {
+        "doc_id": 801,
+        "items": {
+            "McKenna": "Catherine McKenna",
+            "Bissonnette": "Alexandre Bissonnette",
+            "Trump": "Donald Trump",
+            "Evelyn": "Evelyn Moore"
+        }
+    },
+    {
+        "doc_id": 802,
+        "items": {
+            "McKenna": "Catherine McKenna",
+            "McNeil": "Stephen McNeil",
+            "Perry": "Anita Perry"
+        }
+    },
+    {
+        "doc_id": 803,
+        "items": {
+            "McKenna": "Catherine McKenna",
+            "Drouin": "Francis Drouin"
+        }
+    },
+    {
+        "doc_id": 804,
+        "items": {}
+    },
+    {
+        "doc_id": 805,
+        "items": {
+            "in": "Francis Drouin",
+            "Woodroffe": "Sebastian Woodroffe",
+            "Arevalo": "Olivia Arevalo",
+            "Brown": "Patrick Brown",
+            "Ford": "Doug Ford",
+            "Butcher": "Nicholas Butcher",
+            "Poloz": "Stephen Poloz",
+            "Baazov": "David Baazov",
+            "Twain": "Shania Twain",
+            "Cronenberg": "David Cronenberg",
+            "Ashfield": "Keith Ashfield",
+            "William": "William Caxton",
+            "Trump": "Trumps",
+            "Kim": "Kim Chandler"
+        }
+    },
+    {
+        "doc_id": 806,
+        "items": {
+            "Byers": "Michael Byers"
+        }
+    },
+    {
+        "doc_id": 807,
+        "items": {
+            "Monroe": "Sheila Monroe",
+            "Jack": "Hendrix Jack"
+        }
+    },
+    {
+        "doc_id": 808,
+        "items": {
+            "Musgrave": "Deanna Musgrave"
+        }
+    },
+    {
+        "doc_id": 809,
+        "items": {
+            "Melanson": "Arthur Melanson",
+            "Delworth": "Tom Delworth",
+            "Capozi": "Robert Capozi",
+            "Cormier": "Ron Cormier",
+            "Corbett": "Lois Corbett"
+        }
+    },
+    {
+        "doc_id": 810,
+        "items": {}
+    },
+    {
+        "doc_id": 811,
+        "items": {
+            "Cameron": "James Cameron"
+        }
+    },
+    {
+        "doc_id": 812,
+        "items": {
+            "Murray": "Jay Murray",
+            "Schuler": "Ron Schuler"
+        }
+    },
+    {
+        "doc_id": 813,
+        "items": {
+            "Moore": "Ted Moore",
+            "Deitch": "Nicholas Deitch"
+        }
+    },
+    {
+        "doc_id": 814,
+        "items": {
+            "McKenna": "Catherine McKenna"
+        }
+    },
+    {
+        "doc_id": 815,
+        "items": {
+            "Cameron": "James Cameron",
+            "Suzy": "Suzy Amis Cameron"
+        }
+    },
+    {
+        "doc_id": 816,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Scheer": "Andrew Scheer",
+            "Harper": "Stephen Harper"
+        }
+    },
+    {
+        "doc_id": 817,
+        "items": {
+            "Case": "Bem Case"
+        }
+    },
+    {
+        "doc_id": 818,
+        "items": {
+            "May": "Theresa May",
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 819,
+        "items": {
+            "May": "Theresa May",
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 820,
+        "items": {
+            "Suzuki": "David Suzuki",
+            "Forbes": "Fraser Forbes",
+            "Erker": "Dennis Erker",
+            "Iverach": "Robert Iverach"
+        }
+    },
+    {
+        "doc_id": 821,
+        "items": {}
+    },
+    {
+        "doc_id": 822,
+        "items": {}
+    },
+    {
+        "doc_id": 823,
+        "items": {
+            "Johnson": "Mark Johnson",
+            "Silver": "Sandy Silver",
+            "Kent": "Scott Kent"
+        }
+    },
+    {
+        "doc_id": 824,
+        "items": {
+            "Gervais": "J - P Gervais"
+        }
+    },
+    {
+        "doc_id": 825,
+        "items": {
+            "Trump": "Donald Trump",
+            "Macron": "Emmanuel Macron"
+        }
+    },
+    {
+        "doc_id": 826,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Senior": "Paulette Senior",
+            "Delahanty": "Julie Delahanty",
+            "Trump": "Donald Trump",
+            "Khan": "Farrah Khan"
+        }
+    },
+    {
+        "doc_id": 827,
+        "items": {
+            "McConkey": "David McConkey"
+        }
+    },
+    {
+        "doc_id": 828,
+        "items": {
+            "Trump": "Donald Trump",
+            "Macron": "Emmanuel Macron"
+        }
+    },
+    {
+        "doc_id": 829,
+        "items": {
+            "Suzuki": "David Suzuki",
+            "Turpin": "David Turpin",
+            "Doucet": "Joseph Doucet",
+            "Forbes": "Fraser Forbes",
+            "Lawson": "Jeff Lawson"
+        }
+    },
+    {
+        "doc_id": 830,
+        "items": {
+            "Sabia": "Michael Sabia",
+            "Bloomberg": "Michael Bloomberg"
+        }
+    },
+    {
+        "doc_id": 831,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Scheer": "Andrew Scheer",
+            "Harper": "Stephen Harper"
+        }
+    },
+    {
+        "doc_id": 832,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Scheer": "Andrew Scheer",
+            "Harper": "Stephen Harper"
+        }
+    },
+    {
+        "doc_id": 833,
+        "items": {}
+    },
+    {
+        "doc_id": 834,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Senior": "Paulette Senior",
+            "Delahanty": "Julie Delahanty"
+        }
+    },
+    {
+        "doc_id": 835,
+        "items": {
+            "Carr": "Jim Carr",
+            "Trudeau": "Justin Trudeau",
+            "Bloomer": "Chris Bloomer"
+        }
+    },
+    {
+        "doc_id": 836,
+        "items": {
+            "Abel": "Terry Abel"
+        }
+    },
+    {
+        "doc_id": 837,
+        "items": {
+            "Leroux": "Ariane Leroux"
+        }
+    },
+    {
+        "doc_id": 838,
+        "items": {
+            "Suzuki": "David Suzuki"
+        }
+    },
+    {
+        "doc_id": 839,
+        "items": {}
+    },
+    {
+        "doc_id": 840,
+        "items": {
+            "Lussier": "Steve Lussier"
+        }
+    },
+    {
+        "doc_id": 841,
+        "items": {
+            "Fox": "Mike Fox"
+        }
+    },
+    {
+        "doc_id": 842,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Delahanty": "Julie Delahanty",
+            "Yousafzai": "Malala Yousafzai"
+        }
+    },
+    {
+        "doc_id": 843,
+        "items": {
+            "Trump": "Donald Trump",
+            "Macron": "Emmanuel Macron",
+            "Kim": "Kim Jong Un"
+        }
+    },
+    {
+        "doc_id": 844,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Scheer": "Andrew Scheer",
+            "Harper": "Stephen Harper"
+        }
+    },
+    {
+        "doc_id": 845,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 846,
+        "items": {
+            "Silver": "Sandy Silver",
+            "Frost": "Pauline Frost",
+            "Hassard": "Stacey Hassard"
+        }
+    },
+    {
+        "doc_id": 847,
+        "items": {}
+    },
+    {
+        "doc_id": 848,
+        "items": {}
+    },
+    {
+        "doc_id": 849,
+        "items": {
+            "Freeland": "Chrystia Freeland",
+            "Moon": "Moon Jae"
+        }
+    },
+    {
+        "doc_id": 850,
+        "items": {
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 851,
+        "items": {}
+    },
+    {
+        "doc_id": 852,
+        "items": {
+            "Amarasinghe": "Renuka Amarasinghe",
+            "Moe": "Scott Moe"
+        }
+    },
+    {
+        "doc_id": 853,
+        "items": {
+            "Bill": "Bill Cosby",
+            "Cosby": "Bill Cosby"
+        }
+    },
+    {
+        "doc_id": 854,
+        "items": {
+            "Moe": "Scott Moe",
+            "McKenna": "Catherine McKenna",
+            "Morgan": "Don Morgan"
+        }
+    },
+    {
+        "doc_id": 855,
+        "items": {
+            "Takhar": "Harinder Takhar"
+        }
+    },
+    {
+        "doc_id": 856,
+        "items": {}
+    },
+    {
+        "doc_id": 857,
+        "items": {
+            "Blake": "Peter Blake",
+            "Adami": "Valerio Adami"
+        }
+    },
+    {
+        "doc_id": 858,
+        "items": {
+            "Corbett": "Lois Corbett"
+        }
+    },
+    {
+        "doc_id": 859,
+        "items": {
+            "Jim Emberger": "Jim Embergeris"
+        }
+    },
+    {
+        "doc_id": 860,
+        "items": {}
+    },
+    {
+        "doc_id": 861,
+        "items": {}
+    },
+    {
+        "doc_id": 862,
+        "items": {
+            "Pallister": "Brian Pallister",
+            "McKenna": "Catherine McKenna",
+            "Schwartz": "Bryan Schwartz",
+            "Squires": "Rochelle Squires"
+        }
+    },
+    {
+        "doc_id": 863,
+        "items": {
+            "McKenna": "Catherine McKenna",
+            "Nelson": "Drew Nelson"
+        }
+    },
+    {
+        "doc_id": 864,
+        "items": {
+            "Suzuki": "David Suzuki",
+            "Forbes": "Fraser Forbes"
+        }
+    },
+    {
+        "doc_id": 865,
+        "items": {
+            "Macron": "Emmanuel Macron",
+            "Trump": "Donald Trump",
+            "Haski": "Pierre Haski",
+            "Piron": "Barth Piron",
+            "Velut - Peries": "Charlotte Velut - Peries"
+        }
+    },
+    {
+        "doc_id": 866,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Suu Kyi": "Aung San Suu Kyi",
+            "Rae": "Bob Rae"
+        }
+    },
+    {
+        "doc_id": 867,
+        "items": {
+            "Moe": "Scott Moe",
+            "McKenna": "Catherine McKenna"
+        }
+    },
+    {
+        "doc_id": 868,
+        "items": {
+            "Macron": "Emmanuel Macron",
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 869,
+        "items": {
+            "Enns": "Leonard Enns",
+            "T": "Trond Kverno"
+        }
+    },
+    {
+        "doc_id": 870,
+        "items": {
+            "Del Matto": "Tania Del Matto",
+            "Davidson": "Tova Davidson",
+            "Henry": "Jeff Henry"
+        }
+    },
+    {
+        "doc_id": 871,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 872,
+        "items": {
+            "Nathwani": "Jatin Nathwani"
+        }
+    },
+    {
+        "doc_id": 873,
+        "items": {
+            "Macron": "Emmanuel Macron",
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 874,
+        "items": {
+            "Macron": "Emmanuel Macron",
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 875,
+        "items": {}
+    },
+    {
+        "doc_id": 876,
+        "items": {}
+    },
+    {
+        "doc_id": 877,
+        "items": {
+            "Moe": "Scott Moe",
+            "Elgie": "Stewart Elgie",
+            "Pallister": "Brian Pallister"
+        }
+    },
+    {
+        "doc_id": 878,
+        "items": {
+            "Moe": "Scott Moe",
+            "Elgie": "Stewart Elgie",
+            "Pallister": "Brian Pallister"
+        }
+    },
+    {
+        "doc_id": 879,
+        "items": {
+            "Moe": "Scott Moe",
+            "Elgie": "Stewart Elgie"
+        }
+    },
+    {
+        "doc_id": 880,
+        "items": {
+            "Macron": "Emmanuel Macron",
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 881,
+        "items": {}
+    },
+    {
+        "doc_id": 882,
+        "items": {
+            "Moe": "Scott Moe",
+            "Elgie": "Stewart Elgie"
+        }
+    },
+    {
+        "doc_id": 883,
+        "items": {}
+    },
+    {
+        "doc_id": 884,
+        "items": {}
+    },
+    {
+        "doc_id": 885,
+        "items": {
+            "Macron": "Emmanuel Macron",
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 886,
+        "items": {}
+    },
+    {
+        "doc_id": 887,
+        "items": {
+            "Moe": "Scott Moe",
+            "Elgie": "Stewart Elgie"
+        }
+    },
+    {
+        "doc_id": 888,
+        "items": {}
+    },
+    {
+        "doc_id": 889,
+        "items": {
+            "Moe": "Scott Moe",
+            "Elgie": "Stewart Elgie"
+        }
+    },
+    {
+        "doc_id": 890,
+        "items": {
+            "Macron": "Emmanuel Macron",
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 891,
+        "items": {
+            "Moe": "Scott Moe"
+        }
+    },
+    {
+        "doc_id": 892,
+        "items": {
+            "Macron": "Emmanuel Macron",
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 893,
+        "items": {
+            "Moe": "Scott Moe",
+            "Elgie": "Stewart Elgie"
+        }
+    },
+    {
+        "doc_id": 894,
+        "items": {}
+    },
+    {
+        "doc_id": 895,
+        "items": {}
+    },
+    {
+        "doc_id": 896,
+        "items": {
+            "Macron": "Emmanuel Macron",
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 897,
+        "items": {
+            "Moe": "Scott Moe",
+            "Elgie": "Stewart Elgie"
+        }
+    },
+    {
+        "doc_id": 898,
+        "items": {
+            "Moe": "Scott Moe",
+            "Elgie": "Stewart Elgie"
+        }
+    },
+    {
+        "doc_id": 899,
+        "items": {
+            "Macron": "Emmanuel Macron",
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 900,
+        "items": {}
+    },
+    {
+        "doc_id": 901,
+        "items": {
+            "Macron": "Emmanuel Macron",
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 902,
+        "items": {}
+    },
+    {
+        "doc_id": 903,
+        "items": {
+            "Moe": "Scott Moe",
+            "Elgie": "Stewart Elgie"
+        }
+    },
+    {
+        "doc_id": 904,
+        "items": {}
+    },
+    {
+        "doc_id": 905,
+        "items": {
+            "Moe": "Scott Moe",
+            "McKenna": "Catherine McKenna",
+            "Morgan": "Don Morgan"
+        }
+    },
+    {
+        "doc_id": 906,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Hudon": "Isabelle Hudon"
+        }
+    },
+    {
+        "doc_id": 907,
+        "items": {}
+    },
+    {
+        "doc_id": 908,
+        "items": {
+            "Murray": "Gordon Murray",
+            "Sterman": "John Sterman",
+            "Booth": "Mary Booth"
+        }
+    },
+    {
+        "doc_id": 909,
+        "items": {
+            "Gulka": "Shayne Earl Gulka"
+        }
+    },
+    {
+        "doc_id": 910,
+        "items": {
+            "Hudon": "Isabelle Hudon",
+            "Trudeau": "Justin Trudeau",
+            "Iversen": "Katja Iversen"
+        }
+    },
+    {
+        "doc_id": 911,
+        "items": {
+            "Higgs": "Blaine Higgs"
+        }
+    },
+    {
+        "doc_id": 912,
+        "items": {
+            "Bowman": "Brian Bowman",
+            "Taylor": "Dave Taylor"
+        }
+    },
+    {
+        "doc_id": 913,
+        "items": {
+            "Friis": "Christian Friis",
+            "Morrison": "Guy Morrison",
+            "Niles": "Larry Niles",
+            "Smith": "Paul Smith",
+            "Duijns": "Sjoerd Duijns"
+        }
+    },
+    {
+        "doc_id": 914,
+        "items": {}
+    },
+    {
+        "doc_id": 915,
+        "items": {
+            "Suzuki": "David Suzuki"
+        }
+    },
+    {
+        "doc_id": 916,
+        "items": {}
+    },
+    {
+        "doc_id": 917,
+        "items": {
+            "Murray": "Gordon Murray",
+            "Sterman": "John Sterman",
+            "Booth": "Mary Booth"
+        }
+    },
+    {
+        "doc_id": 918,
+        "items": {}
+    },
+    {
+        "doc_id": 919,
+        "items": {}
+    },
+    {
+        "doc_id": 920,
+        "items": {
+            "Menounos": "Kim Menounos"
+        }
+    },
+    {
+        "doc_id": 921,
+        "items": {
+            "Suzuki": "David Suzuki",
+            "Haidt": "Jonathan Haidt"
+        }
+    },
+    {
+        "doc_id": 922,
+        "items": {
+            "Moe": "Scott Moe",
+            "Trudeau": "Justin Trudeau",
+            "Morgan": "Don Morgan",
+            "Mandryk": "Murray Mandryk"
+        }
+    },
+    {
+        "doc_id": 923,
+        "items": {
+            "Reeves": "Hubert Reeves",
+            "Iolande Cadrin": "Iolande Cadrin - Rossignol",
+            "Rossignol": "Iolande Cadrin - Rossignol",
+            "Churchill": "Winston Churchill"
+        }
+    },
+    {
+        "doc_id": 924,
+        "items": {
+            "Suzuki": "David Suzuki"
+        }
+    },
+    {
+        "doc_id": 925,
+        "items": {
+            "Moe": "Scott Moe",
+            "Trudeau": "Justin Trudeau",
+            "Morgan": "Don Morgan",
+            "Mandryk": "Murray Mandryk"
+        }
+    },
+    {
+        "doc_id": 926,
+        "items": {
+            "Reeves": "Hubert Reeves",
+            "Iolande Cadrin": "Iolande Cadrin - Rossignol",
+            "Rossignol": "Iolande Cadrin - Rossignol",
+            "Churchill": "Winston Churchill"
+        }
+    },
+    {
+        "doc_id": 927,
+        "items": {
+            "Reeves": "Hubert Reeves",
+            "Iolande Cadrin": "Iolande Cadrin - Rossignol",
+            "Rossignol": "Iolande Cadrin - Rossignol",
+            "Churchill": "Winston Churchill"
+        }
+    },
+    {
+        "doc_id": 928,
+        "items": {
+            "Reeves": "Hubert Reeves",
+            "Churchill": "Winston Churchill"
+        }
+    },
+    {
+        "doc_id": 929,
+        "items": {}
+    },
+    {
+        "doc_id": 930,
+        "items": {
+            "Fink": "Larry Fink"
+        }
+    },
+    {
+        "doc_id": 931,
+        "items": {
+            "Bankes": "Nigel Bankes",
+            "Notley": "Rachel Notley"
+        }
+    },
+    {
+        "doc_id": 932,
+        "items": {}
+    },
+    {
+        "doc_id": 933,
+        "items": {
+            "Reeves": "Hubert Reeves",
+            "Iolande Cadrin": "Iolande Cadrin - Rossignol",
+            "Rossignol": "Iolande Cadrin - Rossignol",
+            "Churchill": "Winston Churchill"
+        }
+    },
+    {
+        "doc_id": 934,
+        "items": {
+            "Reeves": "Hubert Reeves",
+            "Churchill": "Winston Churchill"
+        }
+    },
+    {
+        "doc_id": 935,
+        "items": {
+            "Reeves": "Hubert Reeves",
+            "Churchill": "Winston Churchill"
+        }
+    },
+    {
+        "doc_id": 936,
+        "items": {
+            "Reeves": "Hubert Reeves",
+            "Churchill": "Winston Churchill"
+        }
+    },
+    {
+        "doc_id": 937,
+        "items": {
+            "McKenna": "Catherine McKenna",
+            "DeRochie": "Patrick DeRochie",
+            "McDonald": "Patrick McDonald"
+        }
+    },
+    {
+        "doc_id": 938,
+        "items": {
+            "Cullen": "Patrick Cullen",
+            "Jolley": "Don Jolley"
+        }
+    },
+    {
+        "doc_id": 939,
+        "items": {}
+    },
+    {
+        "doc_id": 940,
+        "items": {}
+    },
+    {
+        "doc_id": 941,
+        "items": {
+            "Blomstrom": "Eleanor Blomstrom",
+            "Trudeau": "Justin Trudeau",
+            "Joe": "Francyne Joe"
+        }
+    },
+    {
+        "doc_id": 942,
+        "items": {
+            "Wynne": "Kathleen Wynne",
+            "Heather": "Heather Fairbairn"
+        }
+    },
+    {
+        "doc_id": 943,
+        "items": {
+            "McKenna": "Catherine McKenna",
+            "DeRochie": "Patrick DeRochie",
+            "McDonald": "Patrick McDonald"
+        }
+    },
+    {
+        "doc_id": 944,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Scheer": "Andrew Scheer",
+            "Harper": "Stephen Harper",
+            "Chantal Hébert": "Chantal Hébertis"
+        }
+    },
+    {
+        "doc_id": 945,
+        "items": {
+            "Nash": "Tim Nash",
+            "Crowe": "Cheryl Crowe",
+            "Pearson": "Craig Pearson",
+            "Thiessen": "Mike Thiessen"
+        }
+    },
+    {
+        "doc_id": 946,
+        "items": {
+            "Stepnuck": "Lisa Stepnuck",
+            "Masood": "Nusraat Masood"
+        }
+    },
+    {
+        "doc_id": 947,
+        "items": {
+            "Mulroney": "Brian Mulroney",
+            "Hampson": "Fen Osler Hampson"
+        }
+    },
+    {
+        "doc_id": 948,
+        "items": {
+            "Lukasik": "Lynda Lukasik"
+        }
+    },
+    {
+        "doc_id": 949,
+        "items": {
+            "Collins": "Chad Collins"
+        }
+    },
+    {
+        "doc_id": 950,
+        "items": {
+            "Wynne": "Kathleen Wynne",
+            "Horwath": "Andrea Horwath",
+            "Fedeli": "Vic Fedeli",
+            "Gardner": "Scott Gardner"
+        }
+    },
+    {
+        "doc_id": 951,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Ford": "Doug Ford",
+            "Kenney": "Jason Kenney",
+            "Scheer": "Andrew Scheer",
+            "Moe": "Scott Moe"
+        }
+    },
+    {
+        "doc_id": 952,
+        "items": {}
+    },
+    {
+        "doc_id": 953,
+        "items": {
+            "Pallister": "Brian Pallister",
+            "Kinew": "Wab Kinew",
+            "Lamont": "Dougald Lamont"
+        }
+    },
+    {
+        "doc_id": 954,
+        "items": {
+            "Rankin": "Harry Rankin",
+            "Harry": "Harry Rankin",
+            "Alfeld": "Teresa Alfeld",
+            "Smilsky": "Peter Smilsky",
+            "Geoff": "Geoff Dembicki",
+            "Dembicki": "Geoff Dembicki"
+        }
+    },
+    {
+        "doc_id": 955,
+        "items": {
+            "Suzuki": "David Suzuki"
+        }
+    },
+    {
+        "doc_id": 956,
+        "items": {}
+    },
+    {
+        "doc_id": 957,
+        "items": {
+            "Tkachuk": "David Tkachuk",
+            "Harper": "Stephen Harper",
+            "Poloz": "Stephen Poloz",
+            "Trudeau": "Justin Trudeau",
+            "Bartlett": "Randall Bartlett"
+        }
+    },
+    {
+        "doc_id": 958,
+        "items": {
+            "Tkachuk": "David Tkachuk",
+            "Harper": "Stephen Harper",
+            "Poloz": "Stephen Poloz",
+            "Trudeau": "Justin Trudeau",
+            "Bartlett": "Randall Bartlett"
+        }
+    },
+    {
+        "doc_id": 959,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 960,
+        "items": {
+            "Dorval": "Yves - Thomas Dorval"
+        }
+    },
+    {
+        "doc_id": 961,
+        "items": {
+            "Galloway": "Geoff Galloway"
+        }
+    },
+    {
+        "doc_id": 962,
+        "items": {
+            "Hughes": "David Hughes",
+            "McMillan": "Tim McMillan",
+            "Rubin": "Jeff Rubin",
+            "Birn": "Kevin Birn"
+        }
+    },
+    {
+        "doc_id": 963,
+        "items": {
+            "Chris": "Chris Hall",
+            "MCKENNA": "CATHERINE MCKENNA"
+        }
+    },
+    {
+        "doc_id": 964,
+        "items": {}
+    },
+    {
+        "doc_id": 965,
+        "items": {}
+    },
+    {
+        "doc_id": 966,
+        "items": {
+            "Michelle": "Michelle Zilio",
+            "Joyce": "Joyce Napier",
+            "Rona": "Rona Ambrose",
+            "Trump": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 967,
+        "items": {}
+    },
+    {
+        "doc_id": 968,
+        "items": {
+            "Dembicki": "Geoff Dembicki"
+        }
+    },
+    {
+        "doc_id": 969,
+        "items": {
+            "Heather": "Heather Fairbairn"
+        }
+    },
+    {
+        "doc_id": 970,
+        "items": {
+            "Higgs": "Blaine Higgs"
+        }
+    },
+    {
+        "doc_id": 971,
+        "items": {
+            "Slavin Juliá": "Raoul Slavin Juliá",
+            "Bangasser": "Anne Amanda Bangasser"
+        }
+    },
+    {
+        "doc_id": 972,
+        "items": {
+            "Slavin Juliá": "Raoul Slavin Juliá",
+            "Bangasser": "Anne Amanda Bangasser"
+        }
+    },
+    {
+        "doc_id": 973,
+        "items": {}
+    },
+    {
+        "doc_id": 974,
+        "items": {
+            "Mellross": "Mike Mellross"
+        }
+    },
+    {
+        "doc_id": 975,
+        "items": {}
+    },
+    {
+        "doc_id": 976,
+        "items": {
+            "Judy": "Judy J"
+        }
+    },
+    {
+        "doc_id": 977,
+        "items": {}
+    },
+    {
+        "doc_id": 978,
+        "items": {
+            "Hildering": "Jackie Hildering",
+            "Raimondi": "Peter Raimondi",
+            "McDaniel": "Neil McDaniel"
+        }
+    },
+    {
+        "doc_id": 979,
+        "items": {}
+    },
+    {
+        "doc_id": 980,
+        "items": {
+            "Raimondi": "Peter Raimondi",
+            "McDaniel": "Neil McDaniel"
+        }
+    },
+    {
+        "doc_id": 981,
+        "items": {
+            "Lewis": "Nick Lewis"
+        }
+    },
+    {
+        "doc_id": 982,
+        "items": {}
+    },
+    {
+        "doc_id": 983,
+        "items": {}
+    },
+    {
+        "doc_id": 984,
+        "items": {}
+    },
+    {
+        "doc_id": 985,
+        "items": {}
+    },
+    {
+        "doc_id": 986,
+        "items": {
+            "Perry Bellegard": "Perry Bellegarde",
+            "Kendall": "Gary Kendall",
+            "Poloz": "Stephen Poloz"
+        }
+    },
+    {
+        "doc_id": 987,
+        "items": {
+            "Trudeau": "Justin Trudeau"
+        }
+    },
+    {
+        "doc_id": 988,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Scheer": "Andrew Scheer",
+            "Wickham": "Emile Wickham",
+            "Alexander": "Alexander Panetta",
+            "Forcillo": "James Forcillo",
+            "Leonard": "Bob Leonard",
+            "Morneau": "Bill Morneau",
+            "Ford": "Doug Ford",
+            "Trump": "Donald Trump",
+            "Donald": "Donald Trump"
+        }
+    },
+    {
+        "doc_id": 989,
+        "items": {
+            "Morneau": "Bill Morneau",
+            "Rempel": "Michelle Rempel"
+        }
+    },
+    {
+        "doc_id": 990,
+        "items": {
+            "Trudeau": "Justin Trudeau",
+            "Trump": "Donald Trump",
+            "Daniels": "Stormy Daniels",
+            "Ramos": "Mario Ramos"
+        }
+    },
+    {
+        "doc_id": 991,
+        "items": {
+            "McKenna": "Catherine McKenna",
+            "Scheer": "Andrew Scheer",
+            "Kenney": "Jason Kenney"
+        }
+    },
+    {
+        "doc_id": 992,
+        "items": {
+            "Greg": "Greg MacEachern",
+            "Kate": "Kate Harrison",
+            "Karl": "Karl Belanger",
+            "Ford": "Doug Ford"
+        }
+    },
+    {
+        "doc_id": 993,
+        "items": {
+            "Joyce": "Joyce Napier",
+            "Bill": "Bill Curry"
+        }
+    },
+    {
+        "doc_id": 994,
+        "items": {}
+    },
+    {
+        "doc_id": 995,
+        "items": {}
+    }
+]
